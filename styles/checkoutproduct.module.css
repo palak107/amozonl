@@ -1,0 +1,54 @@
+.chekout {
+    display: grid;
+    grid-template-columns: 200px 1fr 1fr;
+    align-items: center;
+    padding: 20px;
+    gap: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.chekout_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+}
+
+.chekout_info p {
+    margin: 0;
+}
+
+.chekout_info div {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.chekout_info img {
+    max-height: 30px;
+    width: auto;
+    margin-left: 5px;
+}
+
+.chekout_buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 10px;
+    width: 100%;
+}
+
+.button {
+    background-color: #f0c14b;
+    border: 1px solid #a88734;
+    padding: 10px;
+    width: 50%;
+    text-align: center;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: #ddb347;
+}

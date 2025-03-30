@@ -1,0 +1,72 @@
+
+/* address-book.module.css */
+
+.addressBookContainer {
+    width: 600px; /* Adjust as needed */
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+}
+
+.addressBookContainer h1 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+.addressBookContainer label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.addressBookContainer input[type="text"],
+.addressBookContainer input[type="tel"],
+.addressBookContainer select,
+.addressBookContainer textarea {
+    width: calc(100% - 12px); /* Adjust for padding */
+    padding: 6px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; /* Include padding and border in element's total width and height */
+}
+
+.addressBookContainer textarea {
+    resize: vertical; /* Allow vertical resizing */
+}
+
+.addressBookContainer input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+.addressBookContainer button[type="submit"] {
+    background-color: #f0c14b;
+    border: 1px solid #a88734;
+    border-radius: 4px;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.addressBookContainer button[type="submit"]:hover {
+    background-color: #f7dfa5;
+}
+
+.addressBookContainer p {
+    font-size: 0.9em;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.addressBookContainer select {
+    height: 34px; /* Adjust to match input height */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .addressBookContainer {
+        width: 95%;
+        margin: 10px auto;
+    }
+}

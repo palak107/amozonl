@@ -1,0 +1,8 @@
+.body{
+    background-color:  rgb(234, 237, 237);
+}
+
+.container {
+    background-color: rgb(234, 237, 237);
+    min-height: 100vh;
+  }

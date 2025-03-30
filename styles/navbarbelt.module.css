@@ -1,0 +1,262 @@
+/* Navbar Container */
+.Navbarbelt {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  background-color: #131921;
+  height: 60px;
+  padding: 0 10px;
+  color: white;
+}
+
+/* Left Section (Logo + Location) */
+.leftSection {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+/* Logo */
+.leftnavbeltlogo {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 5px;
+  height: 50px;
+  border: 1px solid transparent;
+}
+
+.leftnavbeltlogo:hover {
+  border: 1px solid white;
+}
+
+/* Location */
+.navbarbeltlocation {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  cursor: pointer;
+  padding: 0 10px;
+  height: 50px;
+  border: 1px solid transparent;
+}
+
+.navbarbeltlocation:hover {
+  border: 1px solid white;
+}
+
+.deliverText {
+  font-size: 12px;
+  color: #ccc;
+  line-height: 1;
+}
+
+.locationText {
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+/* Location Icon */
+.locationIcon {
+  width: 20px;
+  height: 20px;
+}
+
+/* Search Bar */
+.searchContainer {
+  display: flex;
+  flex: 1;
+  max-width: 720px;
+  height: 40px;
+  background-color: white;
+  border-radius: 4px;
+  overflow: hidden;
+  margin: 0 10px;
+}
+
+.searchInput {
+  flex: 1;
+  border: none;
+  outline: none;
+  padding: 0 10px;
+  font-size: 14px;
+}
+
+/* Search Icon */
+.searchIcon {
+  width: 45px;
+  background-color: #febd69;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.searchIcon:hover {
+  background-color: #f3a847;
+}
+
+/* Right Section (Account, Orders, Cart, Menu) */
+.rightnavbelt {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Navigation Option (Reusable for Account & Lists, Orders, Menu) */
+.navOption {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  cursor: pointer;
+  padding: 5px;
+  height: 50px;
+  border: 1px solid transparent;
+}
+
+.navOption:hover {
+  border: 1px solid white;
+}
+
+.lineOne {
+  font-size: 12px;
+  color: #ccc;
+  line-height: 1;
+}
+
+.lineTwo {
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+/* Cart */
+.cartOption {
+  display: flex;
+  align-items: center;
+  position: relative;
+  cursor: pointer;
+  padding: 5px;
+  height: 50px;
+  border: 1px solid transparent;
+}
+
+.cartOption:hover {
+  border: 1px solid white;
+}
+
+.cartCount {
+  position: absolute;
+  top: 5px;
+  left: 18px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #f08804;
+}
+
+/* Cart Text */
+.cartText {
+  margin-left: 6px;
+  font-weight: bold;
+}
+.navOption{
+  display: flex;
+  flex-direction: column;
+}
+/* Menu Icon (All) */
+.navOption svg {
+  width: 24px;
+  height: 24px;
+  color: white;
+}
+
+.navOption:hover svg {
+  color: #f3a847;
+}
+
+.addressModal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  border: 1px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  z-index: 1000;
+  width: 400px; /* Adjust width as needed */
+}
+
+.addressModal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  border: 1px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  z-index: 1000;
+  width: 400px; /* Adjust width as needed */
+}
+
+.addressModalContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.addressModalHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+  color: #131921;
+}
+.addressModalContent{
+  color: #000;
+}
+.addressModalHeader p{
+  color: #000;
+}
+.addressModalHeader h2 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.addressModalClose {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.addressModalManage {
+  background: none;
+  border: none;
+  color: #007185;
+  text-decoration: none;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.postalCodeInput {
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.applyButton {
+  background-color: #f0c14b;
+  border: 1px solid #a88734;
+  border-radius: 4px;
+  padding: 8px 16px;
+  cursor: pointer;
+  align-self: flex-start;
+}
+
+.applyButton:hover {
+  background-color: #f7dfa5;
+}

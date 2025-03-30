@@ -1,0 +1,79 @@
+/* AddressBook.module.css */
+
+.addressBookContainer {
+    width: 60%; /* Adjust as needed */
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif; /* Consistent font */
+}
+
+.addressBookContainer h1 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    color: #111; /* Dark text */
+}
+
+.formGroup {
+    margin-bottom: 20px;
+}
+
+.formGroup label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #333; /* Slightly darker text */
+}
+
+.formGroup input[type="text"],
+.formGroup select,
+.formGroup textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1em;
+    box-sizing: border-box; /* Include padding and border in element's total width and height */
+}
+
+.formGroup select {
+    height: 40px; /* Consistent height */
+}
+
+.formGroup textarea {
+    resize: vertical;
+    min-height: 100px; /* Minimum height for textarea */
+}
+
+.formGroup input[type="checkbox"] {
+    margin-right: 5px;
+    vertical-align: middle; /* Align checkbox vertically */
+}
+
+.formGroup label[for="defaultAddress"] { /* Specific styling for default address checkbox label */
+    display: inline-flex;
+    align-items: center;
+}
+
+.submitButton {
+    background-color: #f0c14b;
+    border: 1px solid #a88734;
+    border-radius: 4px;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 1em;
+    color: #111; /* Dark text */
+}
+
+.submitButton:hover {
+    background-color: #f5d78e;
+}
+
+/* Responsive adjustments (optional) */
+@media (max-width: 768px) {
+    .addressBookContainer {
+        width: 90%; /* Adjust for smaller screens */
+    }
+}

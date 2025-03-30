@@ -1,0 +1,175 @@
+/* styles/order.module.css */
+
+/* Container Styles */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    min-height: 100vh;
+  }
+  
+  .main {
+    padding: 2rem 0;
+  }
+  
+  /* Title Styles */
+  .title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-bottom: 1.5rem;
+  }
+  
+  .subtitle {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 2rem;
+  }
+  
+  /* Error Message Styles */
+  .error {
+    background-color: #ffebee;
+    border-left: 4px solid #f44336;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    border-radius: 4px;
+  }
+  
+  .error h2 {
+    color: #d32f2f;
+    margin-top: 0;
+  }
+  
+  /* Sign In Prompt */
+  .signInPrompt {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+  }
+  
+  .signInPrompt h2 {
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  /* Orders List */
+  .ordersList {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    margin-top: 2rem;
+  }
+  
+  /* Order Card */
+  .orderCard {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .orderCard:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .orderHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .orderHeader h3 {
+    margin: 0;
+    font-size: 1.25rem;
+    color: #1a1a1a;
+  }
+  
+  .orderDate {
+    color: #666;
+    font-size: 0.9rem;
+  }
+  
+  /* Order Details */
+  .orderDetails {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 2rem;
+  }
+  
+  .orderSummary {
+    background-color: #f9f9f9;
+    padding: 1rem;
+    border-radius: 6px;
+  }
+  
+  .orderSummary p {
+    margin: 0.5rem 0;
+    font-size: 1rem;
+  }
+  
+  .orderSummary strong {
+    color: #333;
+  }
+  
+  /* Order Items */
+  .orderItems {
+    padding: 0.5rem 0;
+  }
+  
+  .orderItems h4 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    color: #333;
+  }
+  
+  .orderItem {
+    display: flex;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px dashed #eee;
+  }
+  
+  .itemDetails {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .itemDetails p {
+    margin: 0;
+    font-size: 0.95rem;
+  }
+  
+  /* Loading State */
+  .loading {
+    text-align: center;
+    padding: 3rem;
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .container {
+      padding: 1rem;
+    }
+  
+    .orderDetails {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+  
+    .orderHeader {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+  }

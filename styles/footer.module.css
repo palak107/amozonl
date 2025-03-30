@@ -1,0 +1,106 @@
+.amazonfooter {
+    background-color: #232f3e;
+    color: #fff;
+    padding: 20px 10px;
+    font-family: Arial, sans-serif;
+    font-size: 0.8rem;
+  }
+  
+  .backtotop {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  .backtotop a {
+    color: #ccc;
+    text-decoration: none;
+  }
+  
+  .backto-top a:hover {
+    text-decoration: underline;
+  }
+  
+  .footercontent {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-bottom: 20px;
+  }
+  
+  .footersection {
+    flex: 1 1 180px;
+    margin-bottom: 15px;
+  }
+  
+  .footersection h3 {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  
+  .footersection ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footersection li a {
+    color: #ccc;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 3px;
+  }
+  
+  .footersection li a:hover {
+    text-decoration: underline;
+  }
+  
+  .footerlogo {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  .footerlogo img {
+    height: 25px;
+    margin-right: 8px;
+  }
+  
+  .footerlogo select,
+  .footerlogo button {
+    padding: 4px 8px;
+    margin: 3px;
+    font-size: 0.8rem;
+  }
+  
+  .footerlinks {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .footerlinks a {
+    color: #ccc;
+    text-decoration: none;
+    font-size: 0.8rem;
+  }
+  
+  .footerlinks a:hover {
+    text-decoration: underline;
+  }
+  
+  .footerbottom {
+    text-align: center;
+    font-size: 0.7rem;
+    color: #ccc;
+  }
+  
+  .footerbottom a {
+    color: #ccc;
+    text-decoration: none;
+    margin: 0 8px;
+  }
+  
+  .footerbottom a:hover {
+    text-decoration: underline;
+  }

@@ -1,0 +1,119 @@
+/* Checkout Page Styles */
+.checkout {
+    display: flex;
+    background-color: #eaeded; /* Amazon's light gray background */
+    padding: 20px;
+    justify-content: space-between;
+}
+
+/* Left Section (Shopping Basket) */
+.leftSection {
+    flex-grow: 1;
+    max-width: 1020px;
+    margin-top: 30px;
+    margin-left: 50px;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.imageContainer > h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.shoppingBasket {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+
+.heading > h1 {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* Right Section (Subtotal) */
+.rightSection {
+    width: 300px;
+    margin-top: 30px;
+    margin-right: 50px;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    align-self: flex-start;
+}
+
+/* Product Styling */
+.checkoutProduct {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.checkoutProduct img {
+    width: 150px;
+    object-fit: contain;
+    margin-right: 20px;
+}
+
+.productInfo {
+    flex-grow: 1;
+}
+
+.productTitle {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.productPrice {
+    font-size: 16px;
+    color: #B12704;
+    font-weight: bold;
+}
+
+/* Buttons */
+.button {
+    background-color: #FFD814;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.button:hover {
+    background-color: #F7CA00;
+}
+
+/* Subtotal Section */
+.subtotal {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    text-align: center;
+}
+
+.subtotal h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.subtotal span {
+    color: #B12704;
+    font-weight: bold;
+}

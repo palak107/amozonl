@@ -1,0 +1,605 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+(() => {
+var exports = {};
+exports.id = "pages/_app";
+exports.ids = ["pages/_app"];
+exports.modules = {
+
+/***/ "./styles/navbarbannner.module.css":
+/*!*****************************************!*\
+  !*** ./styles/navbarbannner.module.css ***!
+  \*****************************************/
+/***/ ((module) => {
+
+eval("// Exports\nmodule.exports = {\n\t\"navbar\": \"navbarbannner_navbar__YJC0o\",\n\t\"navbarbannerleft\": \"navbarbannner_navbarbannerleft__KQGcx\",\n\t\"navbarbannerright\": \"navbarbannner_navbarbannerright__y6nXZ\",\n\t\"myhover\": \"navbarbannner_myhover__heasX\",\n\t\"sign\": \"navbarbannner_sign__YWmry\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zdHlsZXMvbmF2YmFyYmFubm5lci5tb2R1bGUuY3NzIiwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0EiLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xccGFsYWtcXE9uZURyaXZlXFxEZXNrdG9wXFxhbW96b25jbG9uZVxcYW1vem9uXFxzdHlsZXNcXG5hdmJhcmJhbm5uZXIubW9kdWxlLmNzcyJdLCJzb3VyY2VzQ29udGVudCI6WyIvLyBFeHBvcnRzXG5tb2R1bGUuZXhwb3J0cyA9IHtcblx0XCJuYXZiYXJcIjogXCJuYXZiYXJiYW5ubmVyX25hdmJhcl9fWUpDMG9cIixcblx0XCJuYXZiYXJiYW5uZXJsZWZ0XCI6IFwibmF2YmFyYmFubm5lcl9uYXZiYXJiYW5uZXJsZWZ0X19LUUdjeFwiLFxuXHRcIm5hdmJhcmJhbm5lcnJpZ2h0XCI6IFwibmF2YmFyYmFubm5lcl9uYXZiYXJiYW5uZXJyaWdodF9feTZuWFpcIixcblx0XCJteWhvdmVyXCI6IFwibmF2YmFyYmFubm5lcl9teWhvdmVyX19oZWFzWFwiLFxuXHRcInNpZ25cIjogXCJuYXZiYXJiYW5ubmVyX3NpZ25fX1lXbXJ5XCJcbn07XG4iXSwibmFtZXMiOltdLCJpZ25vcmVMaXN0IjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./styles/navbarbannner.module.css\n");
+
+/***/ }),
+
+/***/ "./styles/navbarbelt.module.css":
+/*!**************************************!*\
+  !*** ./styles/navbarbelt.module.css ***!
+  \**************************************/
+/***/ ((module) => {
+
+eval("// Exports\nmodule.exports = {\n\t\"Navbarbelt\": \"navbarbelt_Navbarbelt__xrW2h\",\n\t\"leftSection\": \"navbarbelt_leftSection__D2rSI\",\n\t\"leftnavbeltlogo\": \"navbarbelt_leftnavbeltlogo__lxuL2\",\n\t\"navbarbeltlocation\": \"navbarbelt_navbarbeltlocation__HP52O\",\n\t\"deliverText\": \"navbarbelt_deliverText__2RzHu\",\n\t\"locationText\": \"navbarbelt_locationText__aoUgx\",\n\t\"locationIcon\": \"navbarbelt_locationIcon__k8drE\",\n\t\"searchContainer\": \"navbarbelt_searchContainer__c8MJQ\",\n\t\"searchInput\": \"navbarbelt_searchInput__BVnAZ\",\n\t\"searchIcon\": \"navbarbelt_searchIcon__Mcy2T\",\n\t\"rightnavbelt\": \"navbarbelt_rightnavbelt__aGMCA\",\n\t\"navOption\": \"navbarbelt_navOption__1KgV3\",\n\t\"lineOne\": \"navbarbelt_lineOne__UqnwB\",\n\t\"lineTwo\": \"navbarbelt_lineTwo__Y0Fmz\",\n\t\"cartOption\": \"navbarbelt_cartOption__N3p4_\",\n\t\"cartCount\": \"navbarbelt_cartCount__GkVn4\",\n\t\"cartText\": \"navbarbelt_cartText__IqwjA\",\n\t\"addressModal\": \"navbarbelt_addressModal__HtYpI\",\n\t\"addressModalContent\": \"navbarbelt_addressModalContent__l1fB_\",\n\t\"addressModalHeader\": \"navbarbelt_addressModalHeader__oScIN\",\n\t\"addressModalClose\": \"navbarbelt_addressModalClose__9J0mK\",\n\t\"addressModalManage\": \"navbarbelt_addressModalManage__UDiGv\",\n\t\"postalCodeInput\": \"navbarbelt_postalCodeInput__q7q4i\",\n\t\"applyButton\": \"navbarbelt_applyButton__cI_Ke\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zdHlsZXMvbmF2YmFyYmVsdC5tb2R1bGUuY3NzIiwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQSIsInNvdXJjZXMiOlsiQzpcXFVzZXJzXFxwYWxha1xcT25lRHJpdmVcXERlc2t0b3BcXGFtb3pvbmNsb25lXFxhbW96b25cXHN0eWxlc1xcbmF2YmFyYmVsdC5tb2R1bGUuY3NzIl0sInNvdXJjZXNDb250ZW50IjpbIi8vIEV4cG9ydHNcbm1vZHVsZS5leHBvcnRzID0ge1xuXHRcIk5hdmJhcmJlbHRcIjogXCJuYXZiYXJiZWx0X05hdmJhcmJlbHRfX3hyVzJoXCIsXG5cdFwibGVmdFNlY3Rpb25cIjogXCJuYXZiYXJiZWx0X2xlZnRTZWN0aW9uX19EMnJTSVwiLFxuXHRcImxlZnRuYXZiZWx0bG9nb1wiOiBcIm5hdmJhcmJlbHRfbGVmdG5hdmJlbHRsb2dvX19seHVMMlwiLFxuXHRcIm5hdmJhcmJlbHRsb2NhdGlvblwiOiBcIm5hdmJhcmJlbHRfbmF2YmFyYmVsdGxvY2F0aW9uX19IUDUyT1wiLFxuXHRcImRlbGl2ZXJUZXh0XCI6IFwibmF2YmFyYmVsdF9kZWxpdmVyVGV4dF9fMlJ6SHVcIixcblx0XCJsb2NhdGlvblRleHRcIjogXCJuYXZiYXJiZWx0X2xvY2F0aW9uVGV4dF9fYW9VZ3hcIixcblx0XCJsb2NhdGlvbkljb25cIjogXCJuYXZiYXJiZWx0X2xvY2F0aW9uSWNvbl9fazhkckVcIixcblx0XCJzZWFyY2hDb250YWluZXJcIjogXCJuYXZiYXJiZWx0X3NlYXJjaENvbnRhaW5lcl9fYzhNSlFcIixcblx0XCJzZWFyY2hJbnB1dFwiOiBcIm5hdmJhcmJlbHRfc2VhcmNoSW5wdXRfX0JWbkFaXCIsXG5cdFwic2VhcmNoSWNvblwiOiBcIm5hdmJhcmJlbHRfc2VhcmNoSWNvbl9fTWN5MlRcIixcblx0XCJyaWdodG5hdmJlbHRcIjogXCJuYXZiYXJiZWx0X3JpZ2h0bmF2YmVsdF9fYUdNQ0FcIixcblx0XCJuYXZPcHRpb25cIjogXCJuYXZiYXJiZWx0X25hdk9wdGlvbl9fMUtnVjNcIixcblx0XCJsaW5lT25lXCI6IFwibmF2YmFyYmVsdF9saW5lT25lX19VcW53QlwiLFxuXHRcImxpbmVUd29cIjogXCJuYXZiYXJiZWx0X2xpbmVUd29fX1kwRm16XCIsXG5cdFwiY2FydE9wdGlvblwiOiBcIm5hdmJhcmJlbHRfY2FydE9wdGlvbl9fTjNwNF9cIixcblx0XCJjYXJ0Q291bnRcIjogXCJuYXZiYXJiZWx0X2NhcnRDb3VudF9fR2tWbjRcIixcblx0XCJjYXJ0VGV4dFwiOiBcIm5hdmJhcmJlbHRfY2FydFRleHRfX0lxd2pBXCIsXG5cdFwiYWRkcmVzc01vZGFsXCI6IFwibmF2YmFyYmVsdF9hZGRyZXNzTW9kYWxfX0h0WXBJXCIsXG5cdFwiYWRkcmVzc01vZGFsQ29udGVudFwiOiBcIm5hdmJhcmJlbHRfYWRkcmVzc01vZGFsQ29udGVudF9fbDFmQl9cIixcblx0XCJhZGRyZXNzTW9kYWxIZWFkZXJcIjogXCJuYXZiYXJiZWx0X2FkZHJlc3NNb2RhbEhlYWRlcl9fb1NjSU5cIixcblx0XCJhZGRyZXNzTW9kYWxDbG9zZVwiOiBcIm5hdmJhcmJlbHRfYWRkcmVzc01vZGFsQ2xvc2VfXzlKMG1LXCIsXG5cdFwiYWRkcmVzc01vZGFsTWFuYWdlXCI6IFwibmF2YmFyYmVsdF9hZGRyZXNzTW9kYWxNYW5hZ2VfX1VEaUd2XCIsXG5cdFwicG9zdGFsQ29kZUlucHV0XCI6IFwibmF2YmFyYmVsdF9wb3N0YWxDb2RlSW5wdXRfX3E3cTRpXCIsXG5cdFwiYXBwbHlCdXR0b25cIjogXCJuYXZiYXJiZWx0X2FwcGx5QnV0dG9uX19jSV9LZVwiXG59O1xuIl0sIm5hbWVzIjpbXSwiaWdub3JlTGlzdCI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./styles/navbarbelt.module.css\n");
+
+/***/ }),
+
+/***/ "__barrel_optimize__?names=MagnifyingGlassIcon,ShoppingCartIcon!=!../node_modules/@heroicons/react/24/outline/esm/index.js":
+/*!*********************************************************************************************************************************!*\
+  !*** __barrel_optimize__?names=MagnifyingGlassIcon,ShoppingCartIcon!=!../node_modules/@heroicons/react/24/outline/esm/index.js ***!
+  \*********************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   MagnifyingGlassIcon: () => (/* reexport safe */ _MagnifyingGlassIcon_js__WEBPACK_IMPORTED_MODULE_0__[\"default\"]),\n/* harmony export */   ShoppingCartIcon: () => (/* reexport safe */ _ShoppingCartIcon_js__WEBPACK_IMPORTED_MODULE_1__[\"default\"])\n/* harmony export */ });\n/* harmony import */ var _MagnifyingGlassIcon_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./MagnifyingGlassIcon.js */ \"../node_modules/@heroicons/react/24/outline/esm/MagnifyingGlassIcon.js\");\n/* harmony import */ var _ShoppingCartIcon_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./ShoppingCartIcon.js */ \"../node_modules/@heroicons/react/24/outline/esm/ShoppingCartIcon.js\");\n\n\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiX19iYXJyZWxfb3B0aW1pemVfXz9uYW1lcz1NYWduaWZ5aW5nR2xhc3NJY29uLFNob3BwaW5nQ2FydEljb24hPSEuLi9ub2RlX21vZHVsZXMvQGhlcm9pY29ucy9yZWFjdC8yNC9vdXRsaW5lL2VzbS9pbmRleC5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7OztBQUN5RSIsInNvdXJjZXMiOlsiQzpcXFVzZXJzXFxwYWxha1xcT25lRHJpdmVcXERlc2t0b3BcXGFtb3pvbmNsb25lXFxub2RlX21vZHVsZXNcXEBoZXJvaWNvbnNcXHJlYWN0XFwyNFxcb3V0bGluZVxcZXNtXFxpbmRleC5qcyJdLCJzb3VyY2VzQ29udGVudCI6WyJcbmV4cG9ydCB7IGRlZmF1bHQgYXMgTWFnbmlmeWluZ0dsYXNzSWNvbiB9IGZyb20gXCIuL01hZ25pZnlpbmdHbGFzc0ljb24uanNcIlxuZXhwb3J0IHsgZGVmYXVsdCBhcyBTaG9wcGluZ0NhcnRJY29uIH0gZnJvbSBcIi4vU2hvcHBpbmdDYXJ0SWNvbi5qc1wiIl0sIm5hbWVzIjpbXSwiaWdub3JlTGlzdCI6WzBdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///__barrel_optimize__?names=MagnifyingGlassIcon,ShoppingCartIcon!=!../node_modules/@heroicons/react/24/outline/esm/index.js\n");
+
+/***/ }),
+
+/***/ "./public/amozon.png":
+/*!***************************!*\
+  !*** ./public/amozon.png ***!
+  \***************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({\"src\":\"/_next/static/media/amozon.2e9a901f.png\",\"height\":904,\"width\":2400,\"blurDataURL\":\"/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Famozon.2e9a901f.png&w=8&q=70\",\"blurWidth\":8,\"blurHeight\":3});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wdWJsaWMvYW1vem9uLnBuZyIsIm1hcHBpbmdzIjoiOzs7O0FBQUEsaUVBQWUsQ0FBQyxpTUFBaU0iLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xccGFsYWtcXE9uZURyaXZlXFxEZXNrdG9wXFxhbW96b25jbG9uZVxcYW1vem9uXFxwdWJsaWNcXGFtb3pvbi5wbmciXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQge1wic3JjXCI6XCIvX25leHQvc3RhdGljL21lZGlhL2Ftb3pvbi4yZTlhOTAxZi5wbmdcIixcImhlaWdodFwiOjkwNCxcIndpZHRoXCI6MjQwMCxcImJsdXJEYXRhVVJMXCI6XCIvX25leHQvaW1hZ2U/dXJsPSUyRl9uZXh0JTJGc3RhdGljJTJGbWVkaWElMkZhbW96b24uMmU5YTkwMWYucG5nJnc9OCZxPTcwXCIsXCJibHVyV2lkdGhcIjo4LFwiYmx1ckhlaWdodFwiOjN9OyJdLCJuYW1lcyI6W10sImlnbm9yZUxpc3QiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./public/amozon.png\n");
+
+/***/ }),
+
+/***/ "./pages/_app.js":
+/*!***********************!*\
+  !*** ./pages/_app.js ***!
+  \***********************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ App)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/styles/globals.css */ \"./styles/globals.css\");\n/* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_globals_css__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var next_auth_react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next-auth/react */ \"next-auth/react\");\n/* harmony import */ var next_auth_react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_auth_react__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var react_redux__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react-redux */ \"react-redux\");\n/* harmony import */ var _src_store__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../src/store */ \"./src/store.js\");\n/* harmony import */ var _components_nabar_navabrbelt_Nabarbanner_navbanner__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./components/nabar/navabrbelt/Nabarbanner/navbanner */ \"./pages/components/nabar/navabrbelt/Nabarbanner/navbanner.js\");\n/* harmony import */ var _components_nabar_navabrbelt_navbarbelt__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./components/nabar/navabrbelt/navbarbelt */ \"./pages/components/nabar/navabrbelt/navbarbelt.js\");\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([react_redux__WEBPACK_IMPORTED_MODULE_3__, _src_store__WEBPACK_IMPORTED_MODULE_4__, _components_nabar_navabrbelt_navbarbelt__WEBPACK_IMPORTED_MODULE_6__]);\n([react_redux__WEBPACK_IMPORTED_MODULE_3__, _src_store__WEBPACK_IMPORTED_MODULE_4__, _components_nabar_navabrbelt_navbarbelt__WEBPACK_IMPORTED_MODULE_6__] = __webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__);\n\n\n\n\n // Ensure the correct path to your store.js\n\n\nfunction App({ Component, pageProps }) {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(next_auth_react__WEBPACK_IMPORTED_MODULE_2__.SessionProvider, {\n        session: pageProps.session,\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(react_redux__WEBPACK_IMPORTED_MODULE_3__.Provider, {\n            store: _src_store__WEBPACK_IMPORTED_MODULE_4__.store,\n            children: [\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_nabar_navabrbelt_navbarbelt__WEBPACK_IMPORTED_MODULE_6__[\"default\"], {}, void 0, false, {\n                    fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\_app.js\",\n                    lineNumber: 13,\n                    columnNumber: 9\n                }, this),\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_nabar_navabrbelt_Nabarbanner_navbanner__WEBPACK_IMPORTED_MODULE_5__[\"default\"], {}, void 0, false, {\n                    fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\_app.js\",\n                    lineNumber: 14,\n                    columnNumber: 9\n                }, this),\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(Component, {\n                    ...pageProps\n                }, void 0, false, {\n                    fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\_app.js\",\n                    lineNumber: 15,\n                    columnNumber: 9\n                }, this)\n            ]\n        }, void 0, true, {\n            fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\_app.js\",\n            lineNumber: 11,\n            columnNumber: 7\n        }, this)\n    }, void 0, false, {\n        fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\_app.js\",\n        lineNumber: 10,\n        columnNumber: 5\n    }, this);\n}\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9fYXBwLmpzIiwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7Ozs7Ozs7OztBQUE4QjtBQUNvQztBQUMzQjtBQUNGLENBQUMsMkNBQTJDO0FBRXJCO0FBQ087QUFDcEQsU0FBU00sSUFBSSxFQUFFQyxTQUFTLEVBQUVDLFNBQVMsRUFBRTtJQUNsRCxxQkFDRSw4REFBQ1AsNERBQVlBO1FBQUNRLFNBQVNELFVBQVVDLE9BQU87a0JBQ3RDLDRFQUFDUCxpREFBUUE7WUFBQ0MsT0FBT0EsNkNBQUtBOzs4QkFFcEIsOERBQUNFLCtFQUFVQTs7Ozs7OEJBQ1gsOERBQUNELDBGQUFTQTs7Ozs7OEJBQ1YsOERBQUNHO29CQUFXLEdBQUdDLFNBQVM7Ozs7Ozs7Ozs7Ozs7Ozs7O0FBS2hDIiwic291cmNlcyI6WyJDOlxcVXNlcnNcXHBhbGFrXFxPbmVEcml2ZVxcRGVza3RvcFxcYW1vem9uY2xvbmVcXGFtb3pvblxccGFnZXNcXF9hcHAuanMiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFwiQC9zdHlsZXMvZ2xvYmFscy5jc3NcIjtcbmltcG9ydCB7IFNlc3Npb25Qcm92aWRlciBhcyBBdXRoUHJvdmlkZXIgfSBmcm9tIFwibmV4dC1hdXRoL3JlYWN0XCI7XG5pbXBvcnQgeyBQcm92aWRlciB9IGZyb20gXCJyZWFjdC1yZWR1eFwiO1xuaW1wb3J0IHsgc3RvcmUgfSBmcm9tIFwiLi4vc3JjL3N0b3JlXCI7IC8vIEVuc3VyZSB0aGUgY29ycmVjdCBwYXRoIHRvIHlvdXIgc3RvcmUuanNcbmltcG9ydCBOYXZiYW5uZXJcbiBmcm9tIFwiLi9jb21wb25lbnRzL25hYmFyL25hdmFicmJlbHQvTmFiYXJiYW5uZXIvbmF2YmFubmVyXCI7XG4gaW1wb3J0IE5hdmJhcmJlbHQgZnJvbSBcIi4vY29tcG9uZW50cy9uYWJhci9uYXZhYnJiZWx0L25hdmJhcmJlbHRcIjtcbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEFwcCh7IENvbXBvbmVudCwgcGFnZVByb3BzIH0pIHtcbiAgcmV0dXJuIChcbiAgICA8QXV0aFByb3ZpZGVyIHNlc3Npb249e3BhZ2VQcm9wcy5zZXNzaW9ufT5cbiAgICAgIDxQcm92aWRlciBzdG9yZT17c3RvcmV9PlxuICAgIFxuICAgICAgICA8TmF2YmFyYmVsdC8+XG4gICAgICAgIDxOYXZiYW5uZXIvPlxuICAgICAgICA8Q29tcG9uZW50IHsuLi5wYWdlUHJvcHN9IC8+XG4gICAgIFxuICAgICAgPC9Qcm92aWRlcj5cbiAgICA8L0F1dGhQcm92aWRlcj5cbiAgKTtcbn1cblxuIl0sIm5hbWVzIjpbIlNlc3Npb25Qcm92aWRlciIsIkF1dGhQcm92aWRlciIsIlByb3ZpZGVyIiwic3RvcmUiLCJOYXZiYW5uZXIiLCJOYXZiYXJiZWx0IiwiQXBwIiwiQ29tcG9uZW50IiwicGFnZVByb3BzIiwic2Vzc2lvbiJdLCJpZ25vcmVMaXN0IjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./pages/_app.js\n");
+
+/***/ }),
+
+/***/ "./pages/components/nabar/navabrbelt/Nabarbanner/navbanner.js":
+/*!********************************************************************!*\
+  !*** ./pages/components/nabar/navabrbelt/Nabarbanner/navbanner.js ***!
+  \********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _styles_navbarbannner_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../styles/navbarbannner.module.css */ \"./styles/navbarbannner.module.css\");\n/* harmony import */ var _styles_navbarbannner_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_styles_navbarbannner_module_css__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! next/link */ \"./node_modules/next/link.js\");\n/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_3__);\n\n\n\n\n\nconst Navbanner = ()=>{\n    const itemLists = [\n        \"All\",\n        \"fresh\",\n        \"sells\",\n        \"gifts\",\n        \"Baby\",\n        \"Buy again\",\n        \"amaozon pay\",\n        \"electronic\",\n        \"orders\"\n    ];\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: (_styles_navbarbannner_module_css__WEBPACK_IMPORTED_MODULE_2___default().navbar),\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                className: (_styles_navbarbannner_module_css__WEBPACK_IMPORTED_MODULE_2___default().navbarbannerleft),\n                children: itemLists.map((item, index)=>/*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_link__WEBPACK_IMPORTED_MODULE_3___default()), {\n                        href: `/${item.toLowerCase().replace(/\\s+/g, '-')}`,\n                        className: (_styles_navbarbannner_module_css__WEBPACK_IMPORTED_MODULE_2___default().myhover),\n                        children: item\n                    }, index, false, {\n                        fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\Nabarbanner\\\\navbanner.js\",\n                        lineNumber: 24,\n                        columnNumber: 9\n                    }, undefined))\n            }, void 0, false, {\n                fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\Nabarbanner\\\\navbanner.js\",\n                lineNumber: 22,\n                columnNumber: 5\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"h1\", {\n                    className: (_styles_navbarbannner_module_css__WEBPACK_IMPORTED_MODULE_2___default().sign),\n                    children: \" sign out\"\n                }, void 0, false, {\n                    fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\Nabarbanner\\\\navbanner.js\",\n                    lineNumber: 31,\n                    columnNumber: 5\n                }, undefined)\n            }, void 0, false, {\n                fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\Nabarbanner\\\\navbanner.js\",\n                lineNumber: 30,\n                columnNumber: 5\n            }, undefined)\n        ]\n    }, void 0, true, {\n        fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\Nabarbanner\\\\navbanner.js\",\n        lineNumber: 21,\n        columnNumber: 5\n    }, undefined);\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Navbanner);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9jb21wb25lbnRzL25hYmFyL25hdmFicmJlbHQvTmFiYXJiYW5uZXIvbmF2YmFubmVyLmpzIiwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7Ozs7QUFBeUI7QUFDMEM7QUFDNEI7QUFDbEU7QUFDN0IsTUFBTU0sWUFBWTtJQUNoQixNQUFNQyxZQUFVO1FBQ2I7UUFDQTtRQUNBO1FBQ0M7UUFDQTtRQUNBO1FBQ0E7UUFDQTtRQUNBO0tBQ0g7SUFJRCxxQkFDRSw4REFBQ0M7UUFBSUMsV0FBV1IsZ0ZBQWE7OzBCQUM3Qiw4REFBQ087Z0JBQUlDLFdBQVdSLDBGQUF1QjswQkFDcENNLFVBQVVLLEdBQUcsQ0FBQyxDQUFDQyxNQUFNQyxzQkFDcEIsOERBQUNULGtEQUFJQTt3QkFBQ1UsTUFBTSxDQUFDLENBQUMsRUFBRUYsS0FBS0csV0FBVyxHQUFHQyxPQUFPLENBQUMsUUFBUSxNQUFNO3dCQUFjUixXQUFXUixpRkFBYztrQ0FDN0ZZO3VCQUQ2REM7Ozs7Ozs7Ozs7MEJBTXBFLDhEQUFDTjswQkFDRCw0RUFBQ1c7b0JBQUdWLFdBQVdSLDhFQUFXOzhCQUFFOzs7Ozs7Ozs7Ozs7Ozs7OztBQU9oQztBQUlBLGlFQUFlSyxTQUFTQSxFQUFBIiwic291cmNlcyI6WyJDOlxcVXNlcnNcXHBhbGFrXFxPbmVEcml2ZVxcRGVza3RvcFxcYW1vem9uY2xvbmVcXGFtb3pvblxccGFnZXNcXGNvbXBvbmVudHNcXG5hYmFyXFxuYXZhYnJiZWx0XFxOYWJhcmJhbm5lclxcbmF2YmFubmVyLmpzIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCdcclxuaW1wb3J0IHN0eWxlcyBmcm9tIFwiLi4vLi4vLi4vLi4vLi4vc3R5bGVzL25hdmJhcmJhbm5uZXIubW9kdWxlLmNzc1wiXHJcbmltcG9ydCB7IE1hZ25pZnlpbmdHbGFzc0ljb24sIFNob3BwaW5nQ2FydEljb24sIEJhcnMzSWNvbiB9IGZyb20gXCJAaGVyb2ljb25zL3JlYWN0LzI0L291dGxpbmVcIjtcclxuaW1wb3J0IExpbmsgZnJvbSBcIm5leHQvbGlua1wiO1xyXG5jb25zdCBOYXZiYW5uZXIgPSAoKSA9PiB7XHJcbiAgY29uc3QgaXRlbUxpc3RzPVtcclxuICAgICBcIkFsbFwiLFxyXG4gICAgIFwiZnJlc2hcIixcclxuICAgICBcInNlbGxzXCIsIFxyXG4gICAgICBcImdpZnRzXCIsXHJcbiAgICAgIFwiQmFieVwiLFxyXG4gICAgICBcIkJ1eSBhZ2FpblwiLFxyXG4gICAgICBcImFtYW96b24gcGF5XCIsXHJcbiAgICAgIFwiZWxlY3Ryb25pY1wiLFxyXG4gICAgICBcIm9yZGVyc1wiLFxyXG4gIF1cclxuICBcclxuXHJcblxyXG4gIHJldHVybiAoXHJcbiAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLm5hdmJhcn0+XHJcbiAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLm5hdmJhcmJhbm5lcmxlZnR9PlxyXG4gICAgICB7aXRlbUxpc3RzLm1hcCgoaXRlbSwgaW5kZXgpID0+IChcclxuICAgICAgICA8TGluayBocmVmPXtgLyR7aXRlbS50b0xvd2VyQ2FzZSgpLnJlcGxhY2UoL1xccysvZywgJy0nKX1gfSBrZXk9e2luZGV4fSBjbGFzc05hbWU9e3N0eWxlcy5teWhvdmVyfT5cclxuICAgICAgICAgIHtpdGVtfVxyXG4gICAgICAgIDwvTGluaz5cclxuICAgICAgKSl9XHJcbiAgICBcclxuICAgIDwvZGl2PlxyXG4gICAgPGRpdj5cclxuICAgIDxoMSBjbGFzc05hbWU9e3N0eWxlcy5zaWdufT4gc2lnbiBvdXQ8L2gxPlxyXG4gICAgPC9kaXY+XHJcbiAgPC9kaXY+XHJcblxyXG4gICBcclxuICAgIFxyXG4gICk7XHJcbn07XHJcblxyXG5cclxuXHJcbmV4cG9ydCBkZWZhdWx0IE5hdmJhbm5lclxyXG4iXSwibmFtZXMiOlsiUmVhY3QiLCJzdHlsZXMiLCJNYWduaWZ5aW5nR2xhc3NJY29uIiwiU2hvcHBpbmdDYXJ0SWNvbiIsIkJhcnMzSWNvbiIsIkxpbmsiLCJOYXZiYW5uZXIiLCJpdGVtTGlzdHMiLCJkaXYiLCJjbGFzc05hbWUiLCJuYXZiYXIiLCJuYXZiYXJiYW5uZXJsZWZ0IiwibWFwIiwiaXRlbSIsImluZGV4IiwiaHJlZiIsInRvTG93ZXJDYXNlIiwicmVwbGFjZSIsIm15aG92ZXIiLCJoMSIsInNpZ24iXSwiaWdub3JlTGlzdCI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./pages/components/nabar/navabrbelt/Nabarbanner/navbanner.js\n");
+
+/***/ }),
+
+/***/ "./pages/components/nabar/navabrbelt/navbarbelt.js":
+/*!*********************************************************!*\
+  !*** ./pages/components/nabar/navabrbelt/navbarbelt.js ***!
+  \*********************************************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var next_navigation__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/navigation */ \"./node_modules/next/navigation.js\");\n/* harmony import */ var next_navigation__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_navigation__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _public_amozon_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../../public/amozon.png */ \"./public/amozon.png\");\n/* harmony import */ var _styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../../styles/navbarbelt.module.css */ \"./styles/navbarbelt.module.css\");\n/* harmony import */ var _styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var next_image__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! next/image */ \"./node_modules/next/image.js\");\n/* harmony import */ var next_image__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(next_image__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var next_auth_react__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! next-auth/react */ \"next-auth/react\");\n/* harmony import */ var next_auth_react__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(next_auth_react__WEBPACK_IMPORTED_MODULE_6__);\n/* harmony import */ var _mui_icons_material_LocationOnOutlined__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! @mui/icons-material/LocationOnOutlined */ \"./node_modules/@mui/icons-material/esm/LocationOnOutlined.js\");\n/* harmony import */ var _barrel_optimize_names_MagnifyingGlassIcon_ShoppingCartIcon_heroicons_react_24_outline__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! __barrel_optimize__?names=MagnifyingGlassIcon,ShoppingCartIcon!=!@heroicons/react/24/outline */ \"__barrel_optimize__?names=MagnifyingGlassIcon,ShoppingCartIcon!=!../node_modules/@heroicons/react/24/outline/esm/index.js\");\n/* harmony import */ var react_redux__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! react-redux */ \"react-redux\");\n/* harmony import */ var _slices_basketSlice__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../../../slices/basketSlice */ \"./pages/slices/basketSlice.js\");\n/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! next/link */ \"./node_modules/next/link.js\");\n/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_9__);\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([react_redux__WEBPACK_IMPORTED_MODULE_7__, _slices_basketSlice__WEBPACK_IMPORTED_MODULE_8__]);\n([react_redux__WEBPACK_IMPORTED_MODULE_7__, _slices_basketSlice__WEBPACK_IMPORTED_MODULE_8__] = __webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__);\n// \"use client\";\n// import React, { useState, useEffect } from 'react';\n// import { useRouter } from 'next/navigation';\n// import Amozonlogo from \"../../../../public/amozon.png\";\n// import styles from '../../../../styles/navbarbelt.module.css';\n// import Image from 'next/image';\n// import { signIn, signOut, useSession } from \"next-auth/react\";\n// // Correct icons and imports\n// import LocationOnOutlinedIcon from '@mui/icons-material/LocationOnOutlined';\n// import { MagnifyingGlassIcon, ShoppingCartIcon } from \"@heroicons/react/24/outline\";\n// import { useSelector } from 'react-redux';\n// import { selectItems } from '../../../slices/basketSlice';\n// const Navbarbelt = () => {\n//     const [query, setQuery] = useState(\"\");\n//     const router = useRouter();\n//     const { data: session, status } = useSession();\n//     const items = useSelector(selectItems);\n//     const [deliveryLocation, setDeliveryLocation] = useState(\"America\");\n//     const [isAddressModalOpen, setIsAddressModalOpen] = useState(false); // Modal state\n//     const searchHandler = () => {\n//         if (!query.trim()) return;\n//         const encodedQuery = encodeURIComponent(query);\n//         router.push(`/search/${encodedQuery}`);\n//     };\n//     const handleKeyDown = (event) => {\n//         if (event.key === 'Enter') {\n//             searchHandler();\n//         }\n//     };\n//     const handleOpenAddressModal = () => {\n//         setIsAddressModalOpen(true);\n//     };\n//     const handleCloseAddressModal = () => {\n//         setIsAddressModalOpen(false);\n//     };\n//     const handleSaveAddress = (postalCode) => {\n//         // Here, you would save the postal code to your backend or update the session\n//         console.log(\"Saving postal code:\", postalCode);\n//         setDeliveryLocation(postalCode); // Update the displayed location (temporary)\n//         handleCloseAddressModal();\n//     };\n//     return (\n//         <div className={styles.Navbarbelt}>\n//             {/* Left Section - Logo + Location */}\n//             <div className={styles.leftSection}>\n//                 {/* Amazon Logo */}\n//                 <div className={styles.leftnavbeltlogo}>\n//                     <Image\n//                         onClick={() => router.push('/')}\n//                         src={Amozonlogo}\n//                         alt='Amazon Logo'\n//                         width={100}\n//                         height={40}\n//                         priority\n//                     />\n//                 </div>\n//                 {/* Deliver to Location */}\n//                 <div className={styles.navbarbeltlocation} onClick={handleOpenAddressModal}> {/* Open modal on click */}\n//                     <LocationOnOutlinedIcon className={styles.locationIcon} />\n//                     <div>\n//                         <span className={styles.deliverText}>Deliver to</span>\n//                         <span className={styles.locationText}>delivery</span>\n//                     </div>\n//                 </div>\n//             </div>\n//             {/* Search Bar */}\n//             <div className={styles.searchContainer}>\n//                 <input\n//                     value={query}\n//                     onChange={(e) => setQuery(e.target.value)}\n//                     type=\"text\"\n//                     className={styles.searchInput}\n//                     placeholder=\"Search Amazon\"\n//                     onKeyDown={handleKeyDown}\n//                 />\n//                 <div onClick={searchHandler} className={styles.searchIcon}>\n//                     <MagnifyingGlassIcon width={20} height={20} />\n//                 </div>\n//             </div>\n//             {/* Right Section - Account, Orders, Cart */}\n//             <div className={styles.rightnavbelt}>\n//                 {/* Hello, Account & Lists */}\n//                 <div onClick={!session ? signIn : signOut} className={styles.navOption}>\n//                     <span className={styles.lineOne}>\n//                         {session ? `Hello, ${session.user.name}` : \"Hello, Sign in\"}\n//                     </span>\n//                     <span className={styles.lineTwo}>Account & Lists</span>\n//                 </div>\n//                 {/* Returns & Orders */}\n//                 <div className={styles.navOption}>\n//                     <span className={styles.lineOne}>Returns</span>\n//                     <span className={styles.lineTwo}>& Orders</span>\n//                 </div>\n//                 {/* Cart */}\n//                 <div onClick={() => router.push(\"/checkout\")} className={styles.cartOption}>\n//                     <ShoppingCartIcon width={28} height={28} />\n//                     <span className={styles.cartCount}>{items.length}</span>\n//                     <span className={styles.cartText}>Cart</span>\n//                 </div>\n//             </div>\n//         </div>\n//     );\n// };\n// export default Navbarbelt;\n/* __next_internal_client_entry_do_not_use__ default auto */ \n\n\n\n\n\n\n// Correct icons and imports\n\n\n\n\n // Import Link for navigation\nconst Navbarbelt = ()=>{\n    const [query, setQuery] = (0,react__WEBPACK_IMPORTED_MODULE_1__.useState)(\"\");\n    const router = (0,next_navigation__WEBPACK_IMPORTED_MODULE_2__.useRouter)();\n    const { data: session, status } = (0,next_auth_react__WEBPACK_IMPORTED_MODULE_6__.useSession)();\n    const items = (0,react_redux__WEBPACK_IMPORTED_MODULE_7__.useSelector)(_slices_basketSlice__WEBPACK_IMPORTED_MODULE_8__.selectItems);\n    const [deliveryLocation, setDeliveryLocation] = (0,react__WEBPACK_IMPORTED_MODULE_1__.useState)(\"America\");\n    const [isAddressModalOpen, setIsAddressModalOpen] = (0,react__WEBPACK_IMPORTED_MODULE_1__.useState)(false); // Modal state\n    const [postalCodeInput, setPostalCodeInput] = (0,react__WEBPACK_IMPORTED_MODULE_1__.useState)(\"\"); // State for postal code input\n    const searchHandler = ()=>{\n        if (!query.trim()) return;\n        const encodedQuery = encodeURIComponent(query);\n        router.push(`/search/${encodedQuery}`);\n    };\n    const handleKeyDown = (event)=>{\n        if (event.key === 'Enter') {\n            searchHandler();\n        }\n    };\n    const handleOpenAddressModal = ()=>{\n        setIsAddressModalOpen(true);\n    };\n    const handleCloseAddressModal = ()=>{\n        setIsAddressModalOpen(false);\n    };\n    const handleSaveAddress = ()=>{\n        // Here, you would save the postal code to your backend or update the session\n        console.log(\"Saving postal code:\", postalCodeInput);\n        setDeliveryLocation(postalCodeInput); // Update the displayed location (temporary)\n        handleCloseAddressModal();\n    };\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().Navbarbelt),\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().leftSection),\n                children: [\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                        className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().leftnavbeltlogo),\n                        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_image__WEBPACK_IMPORTED_MODULE_5___default()), {\n                            onClick: ()=>router.push('/'),\n                            src: _public_amozon_png__WEBPACK_IMPORTED_MODULE_3__[\"default\"],\n                            alt: \"Amazon Logo\",\n                            width: 100,\n                            height: 40,\n                            priority: true\n                        }, void 0, false, {\n                            fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                            lineNumber: 179,\n                            columnNumber: 21\n                        }, undefined)\n                    }, void 0, false, {\n                        fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                        lineNumber: 178,\n                        columnNumber: 17\n                    }, undefined),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                        className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().navbarbeltlocation),\n                        onClick: handleOpenAddressModal,\n                        children: [\n                            \" \",\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_mui_icons_material_LocationOnOutlined__WEBPACK_IMPORTED_MODULE_10__[\"default\"], {\n                                className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().locationIcon)\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                                lineNumber: 191,\n                                columnNumber: 21\n                            }, undefined),\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                                children: [\n                                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"span\", {\n                                        className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().deliverText),\n                                        children: \"Deliver to\"\n                                    }, void 0, false, {\n                                        fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                                        lineNumber: 193,\n                                        columnNumber: 25\n                                    }, undefined),\n                                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"span\", {\n                                        className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().locationText),\n                                        children: deliveryLocation\n                                    }, void 0, false, {\n                                        fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                                        lineNumber: 194,\n                                        columnNumber: 25\n                                    }, undefined)\n                                ]\n                            }, void 0, true, {\n                                fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                                lineNumber: 192,\n                                columnNumber: 21\n                            }, undefined)\n                        ]\n                    }, void 0, true, {\n                        fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                        lineNumber: 190,\n                        columnNumber: 17\n                    }, undefined)\n                ]\n            }, void 0, true, {\n                fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                lineNumber: 176,\n                columnNumber: 13\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().searchContainer),\n                children: [\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"input\", {\n                        value: query,\n                        onChange: (e)=>setQuery(e.target.value),\n                        type: \"text\",\n                        className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().searchInput),\n                        placeholder: \"Search Amazon\",\n                        onKeyDown: handleKeyDown\n                    }, void 0, false, {\n                        fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                        lineNumber: 201,\n                        columnNumber: 17\n                    }, undefined),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                        onClick: searchHandler,\n                        className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().searchIcon),\n                        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_barrel_optimize_names_MagnifyingGlassIcon_ShoppingCartIcon_heroicons_react_24_outline__WEBPACK_IMPORTED_MODULE_11__.MagnifyingGlassIcon, {\n                            width: 20,\n                            height: 20\n                        }, void 0, false, {\n                            fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                            lineNumber: 210,\n                            columnNumber: 21\n                        }, undefined)\n                    }, void 0, false, {\n                        fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                        lineNumber: 209,\n                        columnNumber: 17\n                    }, undefined)\n                ]\n            }, void 0, true, {\n                fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                lineNumber: 200,\n                columnNumber: 13\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().rightnavbelt),\n                children: [\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                        onClick: !session ? next_auth_react__WEBPACK_IMPORTED_MODULE_6__.signIn : next_auth_react__WEBPACK_IMPORTED_MODULE_6__.signOut,\n                        className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().navOption),\n                        children: [\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"span\", {\n                                className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().lineOne),\n                                children: session ? `Hello, ${session.user.name}` : \"Hello, Sign in\"\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                                lineNumber: 218,\n                                columnNumber: 21\n                            }, undefined),\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"span\", {\n                                className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().lineTwo),\n                                children: \"Account & Lists\"\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                                lineNumber: 221,\n                                columnNumber: 21\n                            }, undefined)\n                        ]\n                    }, void 0, true, {\n                        fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                        lineNumber: 217,\n                        columnNumber: 17\n                    }, undefined),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                        className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().navOption),\n                        children: [\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"span\", {\n                                className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().lineOne),\n                                children: \"Returns\"\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                                lineNumber: 226,\n                                columnNumber: 21\n                            }, undefined),\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"span\", {\n                                className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().lineTwo),\n                                children: \"& Orders\"\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                                lineNumber: 227,\n                                columnNumber: 21\n                            }, undefined)\n                        ]\n                    }, void 0, true, {\n                        fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                        lineNumber: 225,\n                        columnNumber: 17\n                    }, undefined),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                        onClick: ()=>router.push(\"/checkout\"),\n                        className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().cartOption),\n                        children: [\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_barrel_optimize_names_MagnifyingGlassIcon_ShoppingCartIcon_heroicons_react_24_outline__WEBPACK_IMPORTED_MODULE_11__.ShoppingCartIcon, {\n                                width: 28,\n                                height: 28\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                                lineNumber: 232,\n                                columnNumber: 21\n                            }, undefined),\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"span\", {\n                                className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().cartCount),\n                                children: items.length\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                                lineNumber: 233,\n                                columnNumber: 21\n                            }, undefined),\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"span\", {\n                                className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().cartText),\n                                children: \"Cart\"\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                                lineNumber: 234,\n                                columnNumber: 21\n                            }, undefined)\n                        ]\n                    }, void 0, true, {\n                        fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                        lineNumber: 231,\n                        columnNumber: 17\n                    }, undefined)\n                ]\n            }, void 0, true, {\n                fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                lineNumber: 215,\n                columnNumber: 13\n            }, undefined),\n            isAddressModalOpen && /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().addressModal),\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                    className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().addressModalContent),\n                    children: [\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                            className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().addressModalHeader),\n                            children: [\n                                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"h2\", {\n                                    children: \"Choose your location\"\n                                }, void 0, false, {\n                                    fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                                    lineNumber: 243,\n                                    columnNumber: 29\n                                }, undefined),\n                                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"button\", {\n                                    onClick: handleCloseAddressModal,\n                                    className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().addressModalClose),\n                                    children: \"X\"\n                                }, void 0, false, {\n                                    fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                                    lineNumber: 244,\n                                    columnNumber: 29\n                                }, undefined)\n                            ]\n                        }, void 0, true, {\n                            fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                            lineNumber: 242,\n                            columnNumber: 25\n                        }, undefined),\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"p\", {\n                            children: \"Delivery options and delivery speeds may vary for different locations\"\n                        }, void 0, false, {\n                            fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                            lineNumber: 248,\n                            columnNumber: 25\n                        }, undefined),\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_link__WEBPACK_IMPORTED_MODULE_9___default()), {\n                            href: \"/address-book\",\n                            className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().addressModalManage),\n                            children: [\n                                \" \",\n                                \"Manage address book\"\n                            ]\n                        }, void 0, true, {\n                            fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                            lineNumber: 249,\n                            columnNumber: 25\n                        }, undefined),\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"p\", {\n                            children: \"or enter a Canada postal code\"\n                        }, void 0, false, {\n                            fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                            lineNumber: 252,\n                            columnNumber: 25\n                        }, undefined),\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"input\", {\n                            type: \"text\",\n                            placeholder: \"Postal Code\",\n                            value: postalCodeInput,\n                            onChange: (e)=>setPostalCodeInput(e.target.value),\n                            className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().postalCodeInput)\n                        }, void 0, false, {\n                            fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                            lineNumber: 253,\n                            columnNumber: 25\n                        }, undefined),\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"button\", {\n                            onClick: handleSaveAddress,\n                            className: (_styles_navbarbelt_module_css__WEBPACK_IMPORTED_MODULE_4___default().applyButton),\n                            children: \"Apply\"\n                        }, void 0, false, {\n                            fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                            lineNumber: 260,\n                            columnNumber: 25\n                        }, undefined)\n                    ]\n                }, void 0, true, {\n                    fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                    lineNumber: 241,\n                    columnNumber: 21\n                }, undefined)\n            }, void 0, false, {\n                fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n                lineNumber: 240,\n                columnNumber: 17\n            }, undefined)\n        ]\n    }, void 0, true, {\n        fileName: \"C:\\\\Users\\\\palak\\\\OneDrive\\\\Desktop\\\\amozonclone\\\\amozon\\\\pages\\\\components\\\\nabar\\\\navabrbelt\\\\navbarbelt.js\",\n        lineNumber: 174,\n        columnNumber: 9\n    }, undefined);\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Navbarbelt);\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9jb21wb25lbnRzL25hYmFyL25hdmFicmJlbHQvbmF2YmFyYmVsdC5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7OztBQUFBLGdCQUFnQjtBQUNoQixzREFBc0Q7QUFDdEQsK0NBQStDO0FBQy9DLDBEQUEwRDtBQUMxRCxpRUFBaUU7QUFDakUsa0NBQWtDO0FBQ2xDLGlFQUFpRTtBQUNqRSwrQkFBK0I7QUFDL0IsK0VBQStFO0FBQy9FLHVGQUF1RjtBQUN2Riw2Q0FBNkM7QUFDN0MsNkRBQTZEO0FBRzdELDZCQUE2QjtBQUM3Qiw4Q0FBOEM7QUFDOUMsa0NBQWtDO0FBQ2xDLHNEQUFzRDtBQUN0RCw4Q0FBOEM7QUFDOUMsMkVBQTJFO0FBQzNFLDBGQUEwRjtBQUUxRixvQ0FBb0M7QUFDcEMscUNBQXFDO0FBQ3JDLDBEQUEwRDtBQUMxRCxrREFBa0Q7QUFDbEQsU0FBUztBQUVULHlDQUF5QztBQUN6Qyx1Q0FBdUM7QUFDdkMsK0JBQStCO0FBQy9CLFlBQVk7QUFDWixTQUFTO0FBRVQsNkNBQTZDO0FBQzdDLHVDQUF1QztBQUN2QyxTQUFTO0FBRVQsOENBQThDO0FBQzlDLHdDQUF3QztBQUN4QyxTQUFTO0FBRVQsa0RBQWtEO0FBQ2xELHdGQUF3RjtBQUN4RiwwREFBMEQ7QUFDMUQsd0ZBQXdGO0FBQ3hGLHFDQUFxQztBQUNyQyxTQUFTO0FBRVQsZUFBZTtBQUNmLDhDQUE4QztBQUM5QyxxREFBcUQ7QUFDckQsbURBQW1EO0FBQ25ELHNDQUFzQztBQUN0QywyREFBMkQ7QUFDM0QsNkJBQTZCO0FBQzdCLDJEQUEyRDtBQUMzRCwyQ0FBMkM7QUFDM0MsNENBQTRDO0FBQzVDLHNDQUFzQztBQUN0QyxzQ0FBc0M7QUFDdEMsbUNBQW1DO0FBQ25DLHlCQUF5QjtBQUN6Qix5QkFBeUI7QUFFekIsOENBQThDO0FBQzlDLDJIQUEySDtBQUMzSCxpRkFBaUY7QUFDakYsNEJBQTRCO0FBQzVCLGlGQUFpRjtBQUNqRixnRkFBZ0Y7QUFDaEYsNkJBQTZCO0FBQzdCLHlCQUF5QjtBQUN6QixxQkFBcUI7QUFFckIsaUNBQWlDO0FBQ2pDLHVEQUF1RDtBQUN2RCx5QkFBeUI7QUFDekIsb0NBQW9DO0FBQ3BDLGlFQUFpRTtBQUNqRSxrQ0FBa0M7QUFDbEMscURBQXFEO0FBQ3JELGtEQUFrRDtBQUNsRCxnREFBZ0Q7QUFDaEQscUJBQXFCO0FBQ3JCLDhFQUE4RTtBQUM5RSxxRUFBcUU7QUFDckUseUJBQXlCO0FBQ3pCLHFCQUFxQjtBQUVyQiw0REFBNEQ7QUFDNUQsb0RBQW9EO0FBQ3BELGlEQUFpRDtBQUNqRCwyRkFBMkY7QUFDM0Ysd0RBQXdEO0FBQ3hELHVGQUF1RjtBQUN2Riw4QkFBOEI7QUFDOUIsOEVBQThFO0FBQzlFLHlCQUF5QjtBQUV6QiwyQ0FBMkM7QUFDM0MscURBQXFEO0FBQ3JELHNFQUFzRTtBQUN0RSx1RUFBdUU7QUFDdkUseUJBQXlCO0FBRXpCLCtCQUErQjtBQUMvQiwrRkFBK0Y7QUFDL0Ysa0VBQWtFO0FBQ2xFLCtFQUErRTtBQUMvRSxvRUFBb0U7QUFDcEUseUJBQXlCO0FBQ3pCLHFCQUFxQjtBQUdyQixpQkFBaUI7QUFDakIsU0FBUztBQUNULEtBQUs7QUFFTCw2QkFBNkI7O0FBSXNCO0FBQ1A7QUFDVztBQUNPO0FBQy9CO0FBQytCO0FBQzlELDRCQUE0QjtBQUNnRDtBQUNRO0FBQzFDO0FBQ2dCO0FBQzdCLENBQUMsNkJBQTZCO0FBRTNELE1BQU1nQixhQUFhO0lBQ2YsTUFBTSxDQUFDQyxPQUFPQyxTQUFTLEdBQUdqQiwrQ0FBUUEsQ0FBQztJQUNuQyxNQUFNa0IsU0FBU2hCLDBEQUFTQTtJQUN4QixNQUFNLEVBQUVpQixNQUFNQyxPQUFPLEVBQUVDLE1BQU0sRUFBRSxHQUFHYiwyREFBVUE7SUFDNUMsTUFBTWMsUUFBUVYsd0RBQVdBLENBQUNDLDREQUFXQTtJQUNyQyxNQUFNLENBQUNVLGtCQUFrQkMsb0JBQW9CLEdBQUd4QiwrQ0FBUUEsQ0FBQztJQUN6RCxNQUFNLENBQUN5QixvQkFBb0JDLHNCQUFzQixHQUFHMUIsK0NBQVFBLENBQUMsUUFBUSxjQUFjO0lBQ25GLE1BQU0sQ0FBQzJCLGlCQUFpQkMsbUJBQW1CLEdBQUc1QiwrQ0FBUUEsQ0FBQyxLQUFLLDhCQUE4QjtJQUUxRixNQUFNNkIsZ0JBQWdCO1FBQ2xCLElBQUksQ0FBQ2IsTUFBTWMsSUFBSSxJQUFJO1FBQ25CLE1BQU1DLGVBQWVDLG1CQUFtQmhCO1FBQ3hDRSxPQUFPZSxJQUFJLENBQUMsQ0FBQyxRQUFRLEVBQUVGLGNBQWM7SUFDekM7SUFFQSxNQUFNRyxnQkFBZ0IsQ0FBQ0M7UUFDbkIsSUFBSUEsTUFBTUMsR0FBRyxLQUFLLFNBQVM7WUFDdkJQO1FBQ0o7SUFDSjtJQUVBLE1BQU1RLHlCQUF5QjtRQUMzQlgsc0JBQXNCO0lBQzFCO0lBRUEsTUFBTVksMEJBQTBCO1FBQzVCWixzQkFBc0I7SUFDMUI7SUFFQSxNQUFNYSxvQkFBb0I7UUFDdEIsNkVBQTZFO1FBQzdFQyxRQUFRQyxHQUFHLENBQUMsdUJBQXVCZDtRQUNuQ0gsb0JBQW9CRyxrQkFBa0IsNENBQTRDO1FBQ2xGVztJQUNKO0lBRUEscUJBQ0ksOERBQUNJO1FBQUlDLFdBQVd2QyxpRkFBaUI7OzBCQUU3Qiw4REFBQ3NDO2dCQUFJQyxXQUFXdkMsa0ZBQWtCOztrQ0FFOUIsOERBQUNzQzt3QkFBSUMsV0FBV3ZDLHNGQUFzQjtrQ0FDbEMsNEVBQUNDLG1EQUFLQTs0QkFDRnlDLFNBQVMsSUFBTTVCLE9BQU9lLElBQUksQ0FBQzs0QkFDM0JjLEtBQUs1QywwREFBVUE7NEJBQ2Y2QyxLQUFJOzRCQUNKQyxPQUFPOzRCQUNQQyxRQUFROzRCQUNSQyxRQUFROzs7Ozs7Ozs7OztrQ0FLaEIsOERBQUNUO3dCQUFJQyxXQUFXdkMseUZBQXlCO3dCQUFFMEMsU0FBU1Q7OzRCQUF3QjswQ0FDeEUsOERBQUM1QiwrRUFBc0JBO2dDQUFDa0MsV0FBV3ZDLG1GQUFtQjs7Ozs7OzBDQUN0RCw4REFBQ3NDOztrREFDRyw4REFBQ1k7d0NBQUtYLFdBQVd2QyxrRkFBa0I7a0RBQUU7Ozs7OztrREFDckMsOERBQUNrRDt3Q0FBS1gsV0FBV3ZDLG1GQUFtQjtrREFBR21COzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7MEJBTW5ELDhEQUFDbUI7Z0JBQUlDLFdBQVd2QyxzRkFBc0I7O2tDQUNsQyw4REFBQ3NEO3dCQUNHQyxPQUFPM0M7d0JBQ1A0QyxVQUFVLENBQUNDLElBQU01QyxTQUFTNEMsRUFBRUMsTUFBTSxDQUFDSCxLQUFLO3dCQUN4Q0ksTUFBSzt3QkFDTHBCLFdBQVd2QyxrRkFBa0I7d0JBQzdCNkQsYUFBWTt3QkFDWkMsV0FBV2hDOzs7Ozs7a0NBRWYsOERBQUNRO3dCQUFJSSxTQUFTakI7d0JBQWVjLFdBQVd2QyxpRkFBaUI7a0NBQ3JELDRFQUFDTSx3SUFBbUJBOzRCQUFDdUMsT0FBTzs0QkFBSUMsUUFBUTs7Ozs7Ozs7Ozs7Ozs7Ozs7MEJBS2hELDhEQUFDUjtnQkFBSUMsV0FBV3ZDLG1GQUFtQjs7a0NBRS9CLDhEQUFDc0M7d0JBQUlJLFNBQVMsQ0FBQzFCLFVBQVVkLG1EQUFNQSxHQUFHQyxvREFBT0E7d0JBQUVvQyxXQUFXdkMsZ0ZBQWdCOzswQ0FDbEUsOERBQUNrRDtnQ0FBS1gsV0FBV3ZDLDhFQUFjOzBDQUMxQmdCLFVBQVUsQ0FBQyxPQUFPLEVBQUVBLFFBQVFtRCxJQUFJLENBQUNDLElBQUksRUFBRSxHQUFHOzs7Ozs7MENBRS9DLDhEQUFDbEI7Z0NBQUtYLFdBQVd2Qyw4RUFBYzswQ0FBRTs7Ozs7Ozs7Ozs7O2tDQUlyQyw4REFBQ3NDO3dCQUFJQyxXQUFXdkMsZ0ZBQWdCOzswQ0FDNUIsOERBQUNrRDtnQ0FBS1gsV0FBV3ZDLDhFQUFjOzBDQUFFOzs7Ozs7MENBQ2pDLDhEQUFDa0Q7Z0NBQUtYLFdBQVd2Qyw4RUFBYzswQ0FBRTs7Ozs7Ozs7Ozs7O2tDQUlyQyw4REFBQ3NDO3dCQUFJSSxTQUFTLElBQU01QixPQUFPZSxJQUFJLENBQUM7d0JBQWNVLFdBQVd2QyxpRkFBaUI7OzBDQUN0RSw4REFBQ08scUlBQWdCQTtnQ0FBQ3NDLE9BQU87Z0NBQUlDLFFBQVE7Ozs7OzswQ0FDckMsOERBQUNJO2dDQUFLWCxXQUFXdkMsZ0ZBQWdCOzBDQUFHa0IsTUFBTXNELE1BQU07Ozs7OzswQ0FDaEQsOERBQUN0QjtnQ0FBS1gsV0FBV3ZDLCtFQUFlOzBDQUFFOzs7Ozs7Ozs7Ozs7Ozs7Ozs7WUFLekNxQixvQ0FDRyw4REFBQ2lCO2dCQUFJQyxXQUFXdkMsbUZBQW1COzBCQUMvQiw0RUFBQ3NDO29CQUFJQyxXQUFXdkMsMEZBQTBCOztzQ0FDdEMsOERBQUNzQzs0QkFBSUMsV0FBV3ZDLHlGQUF5Qjs7OENBQ3JDLDhEQUFDNkU7OENBQUc7Ozs7Ozs4Q0FDSiw4REFBQ0M7b0NBQU9wQyxTQUFTUjtvQ0FBeUJLLFdBQVd2Qyx3RkFBd0I7OENBQUU7Ozs7Ozs7Ozs7OztzQ0FJbkYsOERBQUNnRjtzQ0FBRTs7Ozs7O3NDQUNILDhEQUFDdEUsa0RBQUlBOzRCQUFDdUUsTUFBSzs0QkFBZ0IxQyxXQUFXdkMseUZBQXlCOztnQ0FBRTtnQ0FBa0M7Ozs7Ozs7c0NBR25HLDhEQUFDZ0Y7c0NBQUU7Ozs7OztzQ0FDSCw4REFBQzFCOzRCQUNHSyxNQUFLOzRCQUNMRSxhQUFZOzRCQUNaTixPQUFPaEM7NEJBQ1BpQyxVQUFVLENBQUNDLElBQU1qQyxtQkFBbUJpQyxFQUFFQyxNQUFNLENBQUNILEtBQUs7NEJBQ2xEaEIsV0FBV3ZDLHNGQUFzQjs7Ozs7O3NDQUVyQyw4REFBQzhFOzRCQUFPcEMsU0FBU1A7NEJBQW1CSSxXQUFXdkMsa0ZBQWtCO3NDQUFFOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7OztBQU0zRjtBQUVBLGlFQUFlVyxVQUFVQSxFQUFDIiwic291cmNlcyI6WyJDOlxcVXNlcnNcXHBhbGFrXFxPbmVEcml2ZVxcRGVza3RvcFxcYW1vem9uY2xvbmVcXGFtb3pvblxccGFnZXNcXGNvbXBvbmVudHNcXG5hYmFyXFxuYXZhYnJiZWx0XFxuYXZiYXJiZWx0LmpzIl0sInNvdXJjZXNDb250ZW50IjpbIi8vIFwidXNlIGNsaWVudFwiO1xyXG4vLyBpbXBvcnQgUmVhY3QsIHsgdXNlU3RhdGUsIHVzZUVmZmVjdCB9IGZyb20gJ3JlYWN0JztcclxuLy8gaW1wb3J0IHsgdXNlUm91dGVyIH0gZnJvbSAnbmV4dC9uYXZpZ2F0aW9uJztcclxuLy8gaW1wb3J0IEFtb3pvbmxvZ28gZnJvbSBcIi4uLy4uLy4uLy4uL3B1YmxpYy9hbW96b24ucG5nXCI7XHJcbi8vIGltcG9ydCBzdHlsZXMgZnJvbSAnLi4vLi4vLi4vLi4vc3R5bGVzL25hdmJhcmJlbHQubW9kdWxlLmNzcyc7XHJcbi8vIGltcG9ydCBJbWFnZSBmcm9tICduZXh0L2ltYWdlJztcclxuLy8gaW1wb3J0IHsgc2lnbkluLCBzaWduT3V0LCB1c2VTZXNzaW9uIH0gZnJvbSBcIm5leHQtYXV0aC9yZWFjdFwiO1xyXG4vLyAvLyBDb3JyZWN0IGljb25zIGFuZCBpbXBvcnRzXHJcbi8vIGltcG9ydCBMb2NhdGlvbk9uT3V0bGluZWRJY29uIGZyb20gJ0BtdWkvaWNvbnMtbWF0ZXJpYWwvTG9jYXRpb25Pbk91dGxpbmVkJztcclxuLy8gaW1wb3J0IHsgTWFnbmlmeWluZ0dsYXNzSWNvbiwgU2hvcHBpbmdDYXJ0SWNvbiB9IGZyb20gXCJAaGVyb2ljb25zL3JlYWN0LzI0L291dGxpbmVcIjtcclxuLy8gaW1wb3J0IHsgdXNlU2VsZWN0b3IgfSBmcm9tICdyZWFjdC1yZWR1eCc7XHJcbi8vIGltcG9ydCB7IHNlbGVjdEl0ZW1zIH0gZnJvbSAnLi4vLi4vLi4vc2xpY2VzL2Jhc2tldFNsaWNlJztcclxuXHJcblxyXG4vLyBjb25zdCBOYXZiYXJiZWx0ID0gKCkgPT4ge1xyXG4vLyAgICAgY29uc3QgW3F1ZXJ5LCBzZXRRdWVyeV0gPSB1c2VTdGF0ZShcIlwiKTtcclxuLy8gICAgIGNvbnN0IHJvdXRlciA9IHVzZVJvdXRlcigpO1xyXG4vLyAgICAgY29uc3QgeyBkYXRhOiBzZXNzaW9uLCBzdGF0dXMgfSA9IHVzZVNlc3Npb24oKTtcclxuLy8gICAgIGNvbnN0IGl0ZW1zID0gdXNlU2VsZWN0b3Ioc2VsZWN0SXRlbXMpO1xyXG4vLyAgICAgY29uc3QgW2RlbGl2ZXJ5TG9jYXRpb24sIHNldERlbGl2ZXJ5TG9jYXRpb25dID0gdXNlU3RhdGUoXCJBbWVyaWNhXCIpO1xyXG4vLyAgICAgY29uc3QgW2lzQWRkcmVzc01vZGFsT3Blbiwgc2V0SXNBZGRyZXNzTW9kYWxPcGVuXSA9IHVzZVN0YXRlKGZhbHNlKTsgLy8gTW9kYWwgc3RhdGVcclxuXHJcbi8vICAgICBjb25zdCBzZWFyY2hIYW5kbGVyID0gKCkgPT4ge1xyXG4vLyAgICAgICAgIGlmICghcXVlcnkudHJpbSgpKSByZXR1cm47XHJcbi8vICAgICAgICAgY29uc3QgZW5jb2RlZFF1ZXJ5ID0gZW5jb2RlVVJJQ29tcG9uZW50KHF1ZXJ5KTtcclxuLy8gICAgICAgICByb3V0ZXIucHVzaChgL3NlYXJjaC8ke2VuY29kZWRRdWVyeX1gKTtcclxuLy8gICAgIH07XHJcblxyXG4vLyAgICAgY29uc3QgaGFuZGxlS2V5RG93biA9IChldmVudCkgPT4ge1xyXG4vLyAgICAgICAgIGlmIChldmVudC5rZXkgPT09ICdFbnRlcicpIHtcclxuLy8gICAgICAgICAgICAgc2VhcmNoSGFuZGxlcigpO1xyXG4vLyAgICAgICAgIH1cclxuLy8gICAgIH07XHJcblxyXG4vLyAgICAgY29uc3QgaGFuZGxlT3BlbkFkZHJlc3NNb2RhbCA9ICgpID0+IHtcclxuLy8gICAgICAgICBzZXRJc0FkZHJlc3NNb2RhbE9wZW4odHJ1ZSk7XHJcbi8vICAgICB9O1xyXG5cclxuLy8gICAgIGNvbnN0IGhhbmRsZUNsb3NlQWRkcmVzc01vZGFsID0gKCkgPT4ge1xyXG4vLyAgICAgICAgIHNldElzQWRkcmVzc01vZGFsT3BlbihmYWxzZSk7XHJcbi8vICAgICB9O1xyXG5cclxuLy8gICAgIGNvbnN0IGhhbmRsZVNhdmVBZGRyZXNzID0gKHBvc3RhbENvZGUpID0+IHtcclxuLy8gICAgICAgICAvLyBIZXJlLCB5b3Ugd291bGQgc2F2ZSB0aGUgcG9zdGFsIGNvZGUgdG8geW91ciBiYWNrZW5kIG9yIHVwZGF0ZSB0aGUgc2Vzc2lvblxyXG4vLyAgICAgICAgIGNvbnNvbGUubG9nKFwiU2F2aW5nIHBvc3RhbCBjb2RlOlwiLCBwb3N0YWxDb2RlKTtcclxuLy8gICAgICAgICBzZXREZWxpdmVyeUxvY2F0aW9uKHBvc3RhbENvZGUpOyAvLyBVcGRhdGUgdGhlIGRpc3BsYXllZCBsb2NhdGlvbiAodGVtcG9yYXJ5KVxyXG4vLyAgICAgICAgIGhhbmRsZUNsb3NlQWRkcmVzc01vZGFsKCk7XHJcbi8vICAgICB9O1xyXG5cclxuLy8gICAgIHJldHVybiAoXHJcbi8vICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5OYXZiYXJiZWx0fT5cclxuLy8gICAgICAgICAgICAgey8qIExlZnQgU2VjdGlvbiAtIExvZ28gKyBMb2NhdGlvbiAqL31cclxuLy8gICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5sZWZ0U2VjdGlvbn0+XHJcbi8vICAgICAgICAgICAgICAgICB7LyogQW1hem9uIExvZ28gKi99XHJcbi8vICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmxlZnRuYXZiZWx0bG9nb30+XHJcbi8vICAgICAgICAgICAgICAgICAgICAgPEltYWdlXHJcbi8vICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHJvdXRlci5wdXNoKCcvJyl9XHJcbi8vICAgICAgICAgICAgICAgICAgICAgICAgIHNyYz17QW1vem9ubG9nb31cclxuLy8gICAgICAgICAgICAgICAgICAgICAgICAgYWx0PSdBbWF6b24gTG9nbydcclxuLy8gICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg9ezEwMH1cclxuLy8gICAgICAgICAgICAgICAgICAgICAgICAgaGVpZ2h0PXs0MH1cclxuLy8gICAgICAgICAgICAgICAgICAgICAgICAgcHJpb3JpdHlcclxuLy8gICAgICAgICAgICAgICAgICAgICAvPlxyXG4vLyAgICAgICAgICAgICAgICAgPC9kaXY+XHJcblxyXG4vLyAgICAgICAgICAgICAgICAgey8qIERlbGl2ZXIgdG8gTG9jYXRpb24gKi99XHJcbi8vICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLm5hdmJhcmJlbHRsb2NhdGlvbn0gb25DbGljaz17aGFuZGxlT3BlbkFkZHJlc3NNb2RhbH0+IHsvKiBPcGVuIG1vZGFsIG9uIGNsaWNrICovfVxyXG4vLyAgICAgICAgICAgICAgICAgICAgIDxMb2NhdGlvbk9uT3V0bGluZWRJY29uIGNsYXNzTmFtZT17c3R5bGVzLmxvY2F0aW9uSWNvbn0gLz5cclxuLy8gICAgICAgICAgICAgICAgICAgICA8ZGl2PlxyXG4vLyAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e3N0eWxlcy5kZWxpdmVyVGV4dH0+RGVsaXZlciB0bzwvc3Bhbj5cclxuLy8gICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtzdHlsZXMubG9jYXRpb25UZXh0fT5kZWxpdmVyeTwvc3Bhbj5cclxuLy8gICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cclxuLy8gICAgICAgICAgICAgICAgIDwvZGl2PlxyXG4vLyAgICAgICAgICAgICA8L2Rpdj5cclxuXHJcbi8vICAgICAgICAgICAgIHsvKiBTZWFyY2ggQmFyICovfVxyXG4vLyAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLnNlYXJjaENvbnRhaW5lcn0+XHJcbi8vICAgICAgICAgICAgICAgICA8aW5wdXRcclxuLy8gICAgICAgICAgICAgICAgICAgICB2YWx1ZT17cXVlcnl9XHJcbi8vICAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PiBzZXRRdWVyeShlLnRhcmdldC52YWx1ZSl9XHJcbi8vICAgICAgICAgICAgICAgICAgICAgdHlwZT1cInRleHRcIlxyXG4vLyAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17c3R5bGVzLnNlYXJjaElucHV0fVxyXG4vLyAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPVwiU2VhcmNoIEFtYXpvblwiXHJcbi8vICAgICAgICAgICAgICAgICAgICAgb25LZXlEb3duPXtoYW5kbGVLZXlEb3dufVxyXG4vLyAgICAgICAgICAgICAgICAgLz5cclxuLy8gICAgICAgICAgICAgICAgIDxkaXYgb25DbGljaz17c2VhcmNoSGFuZGxlcn0gY2xhc3NOYW1lPXtzdHlsZXMuc2VhcmNoSWNvbn0+XHJcbi8vICAgICAgICAgICAgICAgICAgICAgPE1hZ25pZnlpbmdHbGFzc0ljb24gd2lkdGg9ezIwfSBoZWlnaHQ9ezIwfSAvPlxyXG4vLyAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbi8vICAgICAgICAgICAgIDwvZGl2PlxyXG5cclxuLy8gICAgICAgICAgICAgey8qIFJpZ2h0IFNlY3Rpb24gLSBBY2NvdW50LCBPcmRlcnMsIENhcnQgKi99XHJcbi8vICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMucmlnaHRuYXZiZWx0fT5cclxuLy8gICAgICAgICAgICAgICAgIHsvKiBIZWxsbywgQWNjb3VudCAmIExpc3RzICovfVxyXG4vLyAgICAgICAgICAgICAgICAgPGRpdiBvbkNsaWNrPXshc2Vzc2lvbiA/IHNpZ25JbiA6IHNpZ25PdXR9IGNsYXNzTmFtZT17c3R5bGVzLm5hdk9wdGlvbn0+XHJcbi8vICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtzdHlsZXMubGluZU9uZX0+XHJcbi8vICAgICAgICAgICAgICAgICAgICAgICAgIHtzZXNzaW9uID8gYEhlbGxvLCAke3Nlc3Npb24udXNlci5uYW1lfWAgOiBcIkhlbGxvLCBTaWduIGluXCJ9XHJcbi8vICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPlxyXG4vLyAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17c3R5bGVzLmxpbmVUd299PkFjY291bnQgJiBMaXN0czwvc3Bhbj5cclxuLy8gICAgICAgICAgICAgICAgIDwvZGl2PlxyXG5cclxuLy8gICAgICAgICAgICAgICAgIHsvKiBSZXR1cm5zICYgT3JkZXJzICovfVxyXG4vLyAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5uYXZPcHRpb259PlxyXG4vLyAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17c3R5bGVzLmxpbmVPbmV9PlJldHVybnM8L3NwYW4+XHJcbi8vICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtzdHlsZXMubGluZVR3b30+JiBPcmRlcnM8L3NwYW4+XHJcbi8vICAgICAgICAgICAgICAgICA8L2Rpdj5cclxuXHJcbi8vICAgICAgICAgICAgICAgICB7LyogQ2FydCAqL31cclxuLy8gICAgICAgICAgICAgICAgIDxkaXYgb25DbGljaz17KCkgPT4gcm91dGVyLnB1c2goXCIvY2hlY2tvdXRcIil9IGNsYXNzTmFtZT17c3R5bGVzLmNhcnRPcHRpb259PlxyXG4vLyAgICAgICAgICAgICAgICAgICAgIDxTaG9wcGluZ0NhcnRJY29uIHdpZHRoPXsyOH0gaGVpZ2h0PXsyOH0gLz5cclxuLy8gICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e3N0eWxlcy5jYXJ0Q291bnR9PntpdGVtcy5sZW5ndGh9PC9zcGFuPlxyXG4vLyAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17c3R5bGVzLmNhcnRUZXh0fT5DYXJ0PC9zcGFuPlxyXG4vLyAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbi8vICAgICAgICAgICAgIDwvZGl2PlxyXG5cclxuICAgICAgICAgICBcclxuLy8gICAgICAgICA8L2Rpdj5cclxuLy8gICAgICk7XHJcbi8vIH07XHJcblxyXG4vLyBleHBvcnQgZGVmYXVsdCBOYXZiYXJiZWx0O1xyXG5cclxuXHJcblwidXNlIGNsaWVudFwiO1xyXG5pbXBvcnQgUmVhY3QsIHsgdXNlU3RhdGUsIHVzZUVmZmVjdCB9IGZyb20gJ3JlYWN0JztcclxuaW1wb3J0IHsgdXNlUm91dGVyIH0gZnJvbSAnbmV4dC9uYXZpZ2F0aW9uJztcclxuaW1wb3J0IEFtb3pvbmxvZ28gZnJvbSBcIi4uLy4uLy4uLy4uL3B1YmxpYy9hbW96b24ucG5nXCI7XHJcbmltcG9ydCBzdHlsZXMgZnJvbSAnLi4vLi4vLi4vLi4vc3R5bGVzL25hdmJhcmJlbHQubW9kdWxlLmNzcyc7XHJcbmltcG9ydCBJbWFnZSBmcm9tICduZXh0L2ltYWdlJztcclxuaW1wb3J0IHsgc2lnbkluLCBzaWduT3V0LCB1c2VTZXNzaW9uIH0gZnJvbSBcIm5leHQtYXV0aC9yZWFjdFwiO1xyXG4vLyBDb3JyZWN0IGljb25zIGFuZCBpbXBvcnRzXHJcbmltcG9ydCBMb2NhdGlvbk9uT3V0bGluZWRJY29uIGZyb20gJ0BtdWkvaWNvbnMtbWF0ZXJpYWwvTG9jYXRpb25Pbk91dGxpbmVkJztcclxuaW1wb3J0IHsgTWFnbmlmeWluZ0dsYXNzSWNvbiwgU2hvcHBpbmdDYXJ0SWNvbiB9IGZyb20gXCJAaGVyb2ljb25zL3JlYWN0LzI0L291dGxpbmVcIjtcclxuaW1wb3J0IHsgdXNlU2VsZWN0b3IgfSBmcm9tICdyZWFjdC1yZWR1eCc7XHJcbmltcG9ydCB7IHNlbGVjdEl0ZW1zIH0gZnJvbSAnLi4vLi4vLi4vc2xpY2VzL2Jhc2tldFNsaWNlJztcclxuaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJzsgLy8gSW1wb3J0IExpbmsgZm9yIG5hdmlnYXRpb25cclxuXHJcbmNvbnN0IE5hdmJhcmJlbHQgPSAoKSA9PiB7XHJcbiAgICBjb25zdCBbcXVlcnksIHNldFF1ZXJ5XSA9IHVzZVN0YXRlKFwiXCIpO1xyXG4gICAgY29uc3Qgcm91dGVyID0gdXNlUm91dGVyKCk7XHJcbiAgICBjb25zdCB7IGRhdGE6IHNlc3Npb24sIHN0YXR1cyB9ID0gdXNlU2Vzc2lvbigpO1xyXG4gICAgY29uc3QgaXRlbXMgPSB1c2VTZWxlY3RvcihzZWxlY3RJdGVtcyk7XHJcbiAgICBjb25zdCBbZGVsaXZlcnlMb2NhdGlvbiwgc2V0RGVsaXZlcnlMb2NhdGlvbl0gPSB1c2VTdGF0ZShcIkFtZXJpY2FcIik7XHJcbiAgICBjb25zdCBbaXNBZGRyZXNzTW9kYWxPcGVuLCBzZXRJc0FkZHJlc3NNb2RhbE9wZW5dID0gdXNlU3RhdGUoZmFsc2UpOyAvLyBNb2RhbCBzdGF0ZVxyXG4gICAgY29uc3QgW3Bvc3RhbENvZGVJbnB1dCwgc2V0UG9zdGFsQ29kZUlucHV0XSA9IHVzZVN0YXRlKFwiXCIpOyAvLyBTdGF0ZSBmb3IgcG9zdGFsIGNvZGUgaW5wdXRcclxuXHJcbiAgICBjb25zdCBzZWFyY2hIYW5kbGVyID0gKCkgPT4ge1xyXG4gICAgICAgIGlmICghcXVlcnkudHJpbSgpKSByZXR1cm47XHJcbiAgICAgICAgY29uc3QgZW5jb2RlZFF1ZXJ5ID0gZW5jb2RlVVJJQ29tcG9uZW50KHF1ZXJ5KTtcclxuICAgICAgICByb3V0ZXIucHVzaChgL3NlYXJjaC8ke2VuY29kZWRRdWVyeX1gKTtcclxuICAgIH07XHJcblxyXG4gICAgY29uc3QgaGFuZGxlS2V5RG93biA9IChldmVudCkgPT4ge1xyXG4gICAgICAgIGlmIChldmVudC5rZXkgPT09ICdFbnRlcicpIHtcclxuICAgICAgICAgICAgc2VhcmNoSGFuZGxlcigpO1xyXG4gICAgICAgIH1cclxuICAgIH07XHJcblxyXG4gICAgY29uc3QgaGFuZGxlT3BlbkFkZHJlc3NNb2RhbCA9ICgpID0+IHtcclxuICAgICAgICBzZXRJc0FkZHJlc3NNb2RhbE9wZW4odHJ1ZSk7XHJcbiAgICB9O1xyXG5cclxuICAgIGNvbnN0IGhhbmRsZUNsb3NlQWRkcmVzc01vZGFsID0gKCkgPT4ge1xyXG4gICAgICAgIHNldElzQWRkcmVzc01vZGFsT3BlbihmYWxzZSk7XHJcbiAgICB9O1xyXG5cclxuICAgIGNvbnN0IGhhbmRsZVNhdmVBZGRyZXNzID0gKCkgPT4ge1xyXG4gICAgICAgIC8vIEhlcmUsIHlvdSB3b3VsZCBzYXZlIHRoZSBwb3N0YWwgY29kZSB0byB5b3VyIGJhY2tlbmQgb3IgdXBkYXRlIHRoZSBzZXNzaW9uXHJcbiAgICAgICAgY29uc29sZS5sb2coXCJTYXZpbmcgcG9zdGFsIGNvZGU6XCIsIHBvc3RhbENvZGVJbnB1dCk7XHJcbiAgICAgICAgc2V0RGVsaXZlcnlMb2NhdGlvbihwb3N0YWxDb2RlSW5wdXQpOyAvLyBVcGRhdGUgdGhlIGRpc3BsYXllZCBsb2NhdGlvbiAodGVtcG9yYXJ5KVxyXG4gICAgICAgIGhhbmRsZUNsb3NlQWRkcmVzc01vZGFsKCk7XHJcbiAgICB9O1xyXG5cclxuICAgIHJldHVybiAoXHJcbiAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5OYXZiYXJiZWx0fT5cclxuICAgICAgICAgICAgey8qIExlZnQgU2VjdGlvbiAtIExvZ28gKyBMb2NhdGlvbiAqL31cclxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5sZWZ0U2VjdGlvbn0+XHJcbiAgICAgICAgICAgICAgICB7LyogQW1hem9uIExvZ28gKi99XHJcbiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmxlZnRuYXZiZWx0bG9nb30+XHJcbiAgICAgICAgICAgICAgICAgICAgPEltYWdlXHJcbiAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHJvdXRlci5wdXNoKCcvJyl9XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIHNyYz17QW1vem9ubG9nb31cclxuICAgICAgICAgICAgICAgICAgICAgICAgYWx0PSdBbWF6b24gTG9nbydcclxuICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg9ezEwMH1cclxuICAgICAgICAgICAgICAgICAgICAgICAgaGVpZ2h0PXs0MH1cclxuICAgICAgICAgICAgICAgICAgICAgICAgcHJpb3JpdHlcclxuICAgICAgICAgICAgICAgICAgICAvPlxyXG4gICAgICAgICAgICAgICAgPC9kaXY+XHJcblxyXG4gICAgICAgICAgICAgICAgey8qIERlbGl2ZXIgdG8gTG9jYXRpb24gKi99XHJcbiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLm5hdmJhcmJlbHRsb2NhdGlvbn0gb25DbGljaz17aGFuZGxlT3BlbkFkZHJlc3NNb2RhbH0+IHsvKiBPcGVuIG1vZGFsIG9uIGNsaWNrICovfVxyXG4gICAgICAgICAgICAgICAgICAgIDxMb2NhdGlvbk9uT3V0bGluZWRJY29uIGNsYXNzTmFtZT17c3R5bGVzLmxvY2F0aW9uSWNvbn0gLz5cclxuICAgICAgICAgICAgICAgICAgICA8ZGl2PlxyXG4gICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e3N0eWxlcy5kZWxpdmVyVGV4dH0+RGVsaXZlciB0bzwvc3Bhbj5cclxuICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtzdHlsZXMubG9jYXRpb25UZXh0fT57ZGVsaXZlcnlMb2NhdGlvbn08L3NwYW4+XHJcbiAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgICAgPC9kaXY+XHJcblxyXG4gICAgICAgICAgICB7LyogU2VhcmNoIEJhciAqL31cclxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5zZWFyY2hDb250YWluZXJ9PlxyXG4gICAgICAgICAgICAgICAgPGlucHV0XHJcbiAgICAgICAgICAgICAgICAgICAgdmFsdWU9e3F1ZXJ5fVxyXG4gICAgICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gc2V0UXVlcnkoZS50YXJnZXQudmFsdWUpfVxyXG4gICAgICAgICAgICAgICAgICAgIHR5cGU9XCJ0ZXh0XCJcclxuICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e3N0eWxlcy5zZWFyY2hJbnB1dH1cclxuICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj1cIlNlYXJjaCBBbWF6b25cIlxyXG4gICAgICAgICAgICAgICAgICAgIG9uS2V5RG93bj17aGFuZGxlS2V5RG93bn1cclxuICAgICAgICAgICAgICAgIC8+XHJcbiAgICAgICAgICAgICAgICA8ZGl2IG9uQ2xpY2s9e3NlYXJjaEhhbmRsZXJ9IGNsYXNzTmFtZT17c3R5bGVzLnNlYXJjaEljb259PlxyXG4gICAgICAgICAgICAgICAgICAgIDxNYWduaWZ5aW5nR2xhc3NJY29uIHdpZHRoPXsyMH0gaGVpZ2h0PXsyMH0gLz5cclxuICAgICAgICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICAgICA8L2Rpdj5cclxuXHJcbiAgICAgICAgICAgIHsvKiBSaWdodCBTZWN0aW9uIC0gQWNjb3VudCwgT3JkZXJzLCBDYXJ0ICovfVxyXG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLnJpZ2h0bmF2YmVsdH0+XHJcbiAgICAgICAgICAgICAgICB7LyogSGVsbG8sIEFjY291bnQgJiBMaXN0cyAqL31cclxuICAgICAgICAgICAgICAgIDxkaXYgb25DbGljaz17IXNlc3Npb24gPyBzaWduSW4gOiBzaWduT3V0fSBjbGFzc05hbWU9e3N0eWxlcy5uYXZPcHRpb259PlxyXG4gICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17c3R5bGVzLmxpbmVPbmV9PlxyXG4gICAgICAgICAgICAgICAgICAgICAgICB7c2Vzc2lvbiA/IGBIZWxsbywgJHtzZXNzaW9uLnVzZXIubmFtZX1gIDogXCJIZWxsbywgU2lnbiBpblwifVxyXG4gICAgICAgICAgICAgICAgICAgIDwvc3Bhbj5cclxuICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e3N0eWxlcy5saW5lVHdvfT5BY2NvdW50ICYgTGlzdHM8L3NwYW4+XHJcbiAgICAgICAgICAgICAgICA8L2Rpdj5cclxuXHJcbiAgICAgICAgICAgICAgICB7LyogUmV0dXJucyAmIE9yZGVycyAqL31cclxuICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMubmF2T3B0aW9ufT5cclxuICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e3N0eWxlcy5saW5lT25lfT5SZXR1cm5zPC9zcGFuPlxyXG4gICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17c3R5bGVzLmxpbmVUd299PiYgT3JkZXJzPC9zcGFuPlxyXG4gICAgICAgICAgICAgICAgPC9kaXY+XHJcblxyXG4gICAgICAgICAgICAgICAgey8qIENhcnQgKi99XHJcbiAgICAgICAgICAgICAgICA8ZGl2IG9uQ2xpY2s9eygpID0+IHJvdXRlci5wdXNoKFwiL2NoZWNrb3V0XCIpfSBjbGFzc05hbWU9e3N0eWxlcy5jYXJ0T3B0aW9ufT5cclxuICAgICAgICAgICAgICAgICAgICA8U2hvcHBpbmdDYXJ0SWNvbiB3aWR0aD17Mjh9IGhlaWdodD17Mjh9IC8+XHJcbiAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtzdHlsZXMuY2FydENvdW50fT57aXRlbXMubGVuZ3RofTwvc3Bhbj5cclxuICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e3N0eWxlcy5jYXJ0VGV4dH0+Q2FydDwvc3Bhbj5cclxuICAgICAgICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICAgICA8L2Rpdj5cclxuXHJcbiAgICAgICAgICAgIHsvKiBBZGRyZXNzIE1vZGFsICovfVxyXG4gICAgICAgICAgICB7aXNBZGRyZXNzTW9kYWxPcGVuICYmIChcclxuICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMuYWRkcmVzc01vZGFsfT5cclxuICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmFkZHJlc3NNb2RhbENvbnRlbnR9PlxyXG4gICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmFkZHJlc3NNb2RhbEhlYWRlcn0+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDI+Q2hvb3NlIHlvdXIgbG9jYXRpb248L2gyPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtoYW5kbGVDbG9zZUFkZHJlc3NNb2RhbH0gY2xhc3NOYW1lPXtzdHlsZXMuYWRkcmVzc01vZGFsQ2xvc2V9PlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFhcclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgICAgICAgICAgICAgICAgPHA+RGVsaXZlcnkgb3B0aW9ucyBhbmQgZGVsaXZlcnkgc3BlZWRzIG1heSB2YXJ5IGZvciBkaWZmZXJlbnQgbG9jYXRpb25zPC9wPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICA8TGluayBocmVmPVwiL2FkZHJlc3MtYm9va1wiIGNsYXNzTmFtZT17c3R5bGVzLmFkZHJlc3NNb2RhbE1hbmFnZX0+IHsvKiBMaW5rIHRvIGFkZHJlc3MgYm9vayBwYWdlICovfVxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgTWFuYWdlIGFkZHJlc3MgYm9va1xyXG4gICAgICAgICAgICAgICAgICAgICAgICA8L0xpbms+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIDxwPm9yIGVudGVyIGEgQ2FuYWRhIHBvc3RhbCBjb2RlPC9wPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXRcclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU9XCJ0ZXh0XCJcclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPVwiUG9zdGFsIENvZGVcIlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9e3Bvc3RhbENvZGVJbnB1dH1cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gc2V0UG9zdGFsQ29kZUlucHV0KGUudGFyZ2V0LnZhbHVlKX1cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17c3R5bGVzLnBvc3RhbENvZGVJbnB1dH1cclxuICAgICAgICAgICAgICAgICAgICAgICAgLz5cclxuICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtoYW5kbGVTYXZlQWRkcmVzc30gY2xhc3NOYW1lPXtzdHlsZXMuYXBwbHlCdXR0b259PkFwcGx5PC9idXR0b24+XHJcbiAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgICAgKX1cclxuICAgICAgICA8L2Rpdj5cclxuICAgICk7XHJcbn07XHJcblxyXG5leHBvcnQgZGVmYXVsdCBOYXZiYXJiZWx0O1xyXG5cclxuXHJcblxyXG5cclxuIl0sIm5hbWVzIjpbIlJlYWN0IiwidXNlU3RhdGUiLCJ1c2VFZmZlY3QiLCJ1c2VSb3V0ZXIiLCJBbW96b25sb2dvIiwic3R5bGVzIiwiSW1hZ2UiLCJzaWduSW4iLCJzaWduT3V0IiwidXNlU2Vzc2lvbiIsIkxvY2F0aW9uT25PdXRsaW5lZEljb24iLCJNYWduaWZ5aW5nR2xhc3NJY29uIiwiU2hvcHBpbmdDYXJ0SWNvbiIsInVzZVNlbGVjdG9yIiwic2VsZWN0SXRlbXMiLCJMaW5rIiwiTmF2YmFyYmVsdCIsInF1ZXJ5Iiwic2V0UXVlcnkiLCJyb3V0ZXIiLCJkYXRhIiwic2Vzc2lvbiIsInN0YXR1cyIsIml0ZW1zIiwiZGVsaXZlcnlMb2NhdGlvbiIsInNldERlbGl2ZXJ5TG9jYXRpb24iLCJpc0FkZHJlc3NNb2RhbE9wZW4iLCJzZXRJc0FkZHJlc3NNb2RhbE9wZW4iLCJwb3N0YWxDb2RlSW5wdXQiLCJzZXRQb3N0YWxDb2RlSW5wdXQiLCJzZWFyY2hIYW5kbGVyIiwidHJpbSIsImVuY29kZWRRdWVyeSIsImVuY29kZVVSSUNvbXBvbmVudCIsInB1c2giLCJoYW5kbGVLZXlEb3duIiwiZXZlbnQiLCJrZXkiLCJoYW5kbGVPcGVuQWRkcmVzc01vZGFsIiwiaGFuZGxlQ2xvc2VBZGRyZXNzTW9kYWwiLCJoYW5kbGVTYXZlQWRkcmVzcyIsImNvbnNvbGUiLCJsb2ciLCJkaXYiLCJjbGFzc05hbWUiLCJsZWZ0U2VjdGlvbiIsImxlZnRuYXZiZWx0bG9nbyIsIm9uQ2xpY2siLCJzcmMiLCJhbHQiLCJ3aWR0aCIsImhlaWdodCIsInByaW9yaXR5IiwibmF2YmFyYmVsdGxvY2F0aW9uIiwibG9jYXRpb25JY29uIiwic3BhbiIsImRlbGl2ZXJUZXh0IiwibG9jYXRpb25UZXh0Iiwic2VhcmNoQ29udGFpbmVyIiwiaW5wdXQiLCJ2YWx1ZSIsIm9uQ2hhbmdlIiwiZSIsInRhcmdldCIsInR5cGUiLCJzZWFyY2hJbnB1dCIsInBsYWNlaG9sZGVyIiwib25LZXlEb3duIiwic2VhcmNoSWNvbiIsInJpZ2h0bmF2YmVsdCIsIm5hdk9wdGlvbiIsImxpbmVPbmUiLCJ1c2VyIiwibmFtZSIsImxpbmVUd28iLCJjYXJ0T3B0aW9uIiwiY2FydENvdW50IiwibGVuZ3RoIiwiY2FydFRleHQiLCJhZGRyZXNzTW9kYWwiLCJhZGRyZXNzTW9kYWxDb250ZW50IiwiYWRkcmVzc01vZGFsSGVhZGVyIiwiaDIiLCJidXR0b24iLCJhZGRyZXNzTW9kYWxDbG9zZSIsInAiLCJocmVmIiwiYWRkcmVzc01vZGFsTWFuYWdlIiwiYXBwbHlCdXR0b24iXSwiaWdub3JlTGlzdCI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./pages/components/nabar/navabrbelt/navbarbelt.js\n");
+
+/***/ }),
+
+/***/ "./pages/slices/basketSlice.js":
+/*!*************************************!*\
+  !*** ./pages/slices/basketSlice.js ***!
+  \*************************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   addToBasket: () => (/* binding */ addToBasket),\n/* harmony export */   basketSlice: () => (/* binding */ basketSlice),\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__),\n/* harmony export */   removeFromBasket: () => (/* binding */ removeFromBasket),\n/* harmony export */   selectItems: () => (/* binding */ selectItems),\n/* harmony export */   selectTotal: () => (/* binding */ selectTotal)\n/* harmony export */ });\n/* harmony import */ var _reduxjs_toolkit__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @reduxjs/toolkit */ \"@reduxjs/toolkit\");\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_reduxjs_toolkit__WEBPACK_IMPORTED_MODULE_0__]);\n_reduxjs_toolkit__WEBPACK_IMPORTED_MODULE_0__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];\n\nconst initialState = {\n    items: []\n};\nconst basketSlice = (0,_reduxjs_toolkit__WEBPACK_IMPORTED_MODULE_0__.createSlice)({\n    name: 'basket',\n    initialState,\n    reducers: {\n        addToBasket: (state, action)=>{\n            state.items = [\n                ...state.items,\n                action.payload\n            ];\n        },\n        removeFromBasket: (state, action)=>{\n            const index = state.items.findIndex((basketItem)=>basketItem.id === action.payload.id);\n            let newBasket = [\n                ...state.items\n            ];\n            if (index >= 0) {\n                //the item exit in the basket\n                newBasket.splice(index, 1);\n            } else {\n                console.warn(`cant remove product`);\n            }\n            state.items = newBasket;\n        }\n    }\n});\nconst { addToBasket, removeFromBasket } = basketSlice.actions;\nconst selectItems = (state)=>state.basket.items;\nconst selectTotal = (state)=>state.basket.items.reduce((total, item)=>total + item.price + 0);\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (basketSlice.reducer);\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9zbGljZXMvYmFza2V0U2xpY2UuanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7OztBQUE2QztBQUU3QyxNQUFNQyxlQUFlO0lBQ2pCQyxPQUFPLEVBQUU7QUFDYjtBQUNPLE1BQU1DLGNBQWNILDZEQUFXQSxDQUFDO0lBQ25DSSxNQUFNO0lBQ05IO0lBQ0FJLFVBQVU7UUFDTkMsYUFBYSxDQUFDQyxPQUFPQztZQUNqQkQsTUFBTUwsS0FBSyxHQUFDO21CQUFJSyxNQUFNTCxLQUFLO2dCQUFFTSxPQUFPQyxPQUFPO2FBQUM7UUFDaEQ7UUFDQUMsa0JBQXFCLENBQUNILE9BQU9DO1lBQ3pCLE1BQU1HLFFBQU9KLE1BQU1MLEtBQUssQ0FBQ1UsU0FBUyxDQUFDQyxDQUFBQSxhQUFhQSxXQUFXQyxFQUFFLEtBQUdOLE9BQU9DLE9BQU8sQ0FBQ0ssRUFBRTtZQUNqRixJQUFJQyxZQUFXO21CQUFJUixNQUFNTCxLQUFLO2FBQUM7WUFHL0IsSUFBR1MsU0FBTyxHQUFFO2dCQUNSLDZCQUE2QjtnQkFFN0JJLFVBQVVDLE1BQU0sQ0FBQ0wsT0FBTTtZQUMzQixPQUFLO2dCQUNETSxRQUFRQyxJQUFJLENBQ1IsQ0FBQyxtQkFBbUIsQ0FBQztZQUU3QjtZQUNBWCxNQUFNTCxLQUFLLEdBQUVhO1FBQ2pCO0lBQ0o7QUFDSixHQUFHO0FBQ0ksTUFBTSxFQUFDVCxXQUFXLEVBQUVJLGdCQUFnQixFQUFDLEdBQUdQLFlBQVlnQixPQUFPLENBQUM7QUFDNUQsTUFBTUMsY0FBY2IsQ0FBQUEsUUFBU0EsTUFBTWMsTUFBTSxDQUFDbkIsS0FBSyxDQUFDO0FBRWhELE1BQU1vQixjQUFZLENBQUNmLFFBQVFBLE1BQU1jLE1BQU0sQ0FBQ25CLEtBQUssQ0FBQ3FCLE1BQU0sQ0FBQyxDQUFDQyxPQUFNQyxPQUFPRCxRQUFNQyxLQUFLQyxLQUFLLEdBQUMsR0FBRztBQUU5RixpRUFBZXZCLFlBQVl3QixPQUFPLEVBQUMiLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xccGFsYWtcXE9uZURyaXZlXFxEZXNrdG9wXFxhbW96b25jbG9uZVxcYW1vem9uXFxwYWdlc1xcc2xpY2VzXFxiYXNrZXRTbGljZS5qcyJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQge2NyZWF0ZVNsaWNlfSBmcm9tICdAcmVkdXhqcy90b29sa2l0JztcclxuXHJcbmNvbnN0IGluaXRpYWxTdGF0ZSA9IHtcclxuICAgIGl0ZW1zOiBbXSxcclxufVxyXG5leHBvcnQgY29uc3QgYmFza2V0U2xpY2UgPSBjcmVhdGVTbGljZSh7XHJcbiAgICBuYW1lOiAnYmFza2V0JyxcclxuICAgIGluaXRpYWxTdGF0ZSxcclxuICAgIHJlZHVjZXJzOiB7XHJcbiAgICAgICAgYWRkVG9CYXNrZXQ6IChzdGF0ZSwgYWN0aW9uKSA9PiB7XHJcbiAgICAgICAgICAgIHN0YXRlLml0ZW1zPVsuLi5zdGF0ZS5pdGVtcywgYWN0aW9uLnBheWxvYWRdO1xyXG4gICAgICAgIH0sXHJcbiAgICAgICAgcmVtb3ZlRnJvbUJhc2tldCAgIDogKHN0YXRlLCBhY3Rpb24pID0+IHtcclxuICAgICAgICAgICAgY29uc3QgaW5kZXg9IHN0YXRlLml0ZW1zLmZpbmRJbmRleChiYXNrZXRJdGVtPT4gYmFza2V0SXRlbS5pZD09PWFjdGlvbi5wYXlsb2FkLmlkKTtcclxuICAgICAgICAgICAgbGV0IG5ld0Jhc2tldCA9Wy4uLnN0YXRlLml0ZW1zXTtcclxuXHJcblxyXG4gICAgICAgICAgICBpZihpbmRleD49MCl7XHJcbiAgICAgICAgICAgICAgICAvL3RoZSBpdGVtIGV4aXQgaW4gdGhlIGJhc2tldFxyXG5cclxuICAgICAgICAgICAgICAgIG5ld0Jhc2tldC5zcGxpY2UoaW5kZXgsMSlcclxuICAgICAgICAgICAgfWVsc2V7XHJcbiAgICAgICAgICAgICAgICBjb25zb2xlLndhcm4oXHJcbiAgICAgICAgICAgICAgICAgICAgYGNhbnQgcmVtb3ZlIHByb2R1Y3RgXHJcbiAgICAgICAgICAgICAgICApXHJcbiAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgc3RhdGUuaXRlbXM9IG5ld0Jhc2tldDtcclxuICAgICAgICB9LFxyXG4gICAgfSxcclxufSk7XHJcbmV4cG9ydCBjb25zdCB7YWRkVG9CYXNrZXQsIHJlbW92ZUZyb21CYXNrZXR9ID0gYmFza2V0U2xpY2UuYWN0aW9ucztcclxuZXhwb3J0IGNvbnN0IHNlbGVjdEl0ZW1zID0gc3RhdGUgPT4gc3RhdGUuYmFza2V0Lml0ZW1zO1xyXG5cclxuZXhwb3J0IGNvbnN0IHNlbGVjdFRvdGFsPShzdGF0ZSk9PnN0YXRlLmJhc2tldC5pdGVtcy5yZWR1Y2UoKHRvdGFsLGl0ZW0pPT50b3RhbCtpdGVtLnByaWNlKzApO1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgYmFza2V0U2xpY2UucmVkdWNlcjtcclxuXHJcbiJdLCJuYW1lcyI6WyJjcmVhdGVTbGljZSIsImluaXRpYWxTdGF0ZSIsIml0ZW1zIiwiYmFza2V0U2xpY2UiLCJuYW1lIiwicmVkdWNlcnMiLCJhZGRUb0Jhc2tldCIsInN0YXRlIiwiYWN0aW9uIiwicGF5bG9hZCIsInJlbW92ZUZyb21CYXNrZXQiLCJpbmRleCIsImZpbmRJbmRleCIsImJhc2tldEl0ZW0iLCJpZCIsIm5ld0Jhc2tldCIsInNwbGljZSIsImNvbnNvbGUiLCJ3YXJuIiwiYWN0aW9ucyIsInNlbGVjdEl0ZW1zIiwiYmFza2V0Iiwic2VsZWN0VG90YWwiLCJyZWR1Y2UiLCJ0b3RhbCIsIml0ZW0iLCJwcmljZSIsInJlZHVjZXIiXSwiaWdub3JlTGlzdCI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./pages/slices/basketSlice.js\n");
+
+/***/ }),
+
+/***/ "./slices/basketSlice.js":
+/*!*******************************!*\
+  !*** ./slices/basketSlice.js ***!
+  \*******************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   addToBasket: () => (/* binding */ addToBasket),\n/* harmony export */   basketSlice: () => (/* binding */ basketSlice),\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__),\n/* harmony export */   removeFromBasket: () => (/* binding */ removeFromBasket),\n/* harmony export */   selectItems: () => (/* binding */ selectItems)\n/* harmony export */ });\n/* harmony import */ var _reduxjs_toolkit__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @reduxjs/toolkit */ \"@reduxjs/toolkit\");\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_reduxjs_toolkit__WEBPACK_IMPORTED_MODULE_0__]);\n_reduxjs_toolkit__WEBPACK_IMPORTED_MODULE_0__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];\n\nconst initialState = {\n    items: []\n};\nconst basketSlice = (0,_reduxjs_toolkit__WEBPACK_IMPORTED_MODULE_0__.createSlice)({\n    name: 'basket',\n    initialState,\n    reducers: {\n        addToBasket: (state, action)=>{\n            state.items = [\n                ...state.items,\n                action.payload\n            ];\n        },\n        removeFromBasket: (state, action)=>{}\n    }\n});\nconst { addToBasket, removeFromBasket } = basketSlice.actions;\nconst selectItems = (state)=>state.basket.items;\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (basketSlice.reducer);\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zbGljZXMvYmFza2V0U2xpY2UuanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7O0FBQTZDO0FBRTdDLE1BQU1DLGVBQWU7SUFDakJDLE9BQU8sRUFBRTtBQUNiO0FBQ08sTUFBTUMsY0FBY0gsNkRBQVdBLENBQUM7SUFDbkNJLE1BQU07SUFDTkg7SUFDQUksVUFBVTtRQUNOQyxhQUFhLENBQUNDLE9BQU9DO1lBQ2pCRCxNQUFNTCxLQUFLLEdBQUM7bUJBQUlLLE1BQU1MLEtBQUs7Z0JBQUVNLE9BQU9DLE9BQU87YUFBQztRQUNoRDtRQUNBQyxrQkFBa0IsQ0FBQ0gsT0FBT0MsVUFBWTtJQUMxQztBQUNKLEdBQUc7QUFDSSxNQUFNLEVBQUNGLFdBQVcsRUFBRUksZ0JBQWdCLEVBQUMsR0FBR1AsWUFBWVEsT0FBTyxDQUFDO0FBQzVELE1BQU1DLGNBQWNMLENBQUFBLFFBQVNBLE1BQU1NLE1BQU0sQ0FBQ1gsS0FBSyxDQUFDO0FBSXZELGlFQUFlQyxZQUFZVyxPQUFPLEVBQUMiLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xccGFsYWtcXE9uZURyaXZlXFxEZXNrdG9wXFxhbW96b25jbG9uZVxcYW1vem9uXFxzbGljZXNcXGJhc2tldFNsaWNlLmpzIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7Y3JlYXRlU2xpY2V9IGZyb20gJ0ByZWR1eGpzL3Rvb2xraXQnO1xyXG5cclxuY29uc3QgaW5pdGlhbFN0YXRlID0ge1xyXG4gICAgaXRlbXM6IFtdLFxyXG59XHJcbmV4cG9ydCBjb25zdCBiYXNrZXRTbGljZSA9IGNyZWF0ZVNsaWNlKHtcclxuICAgIG5hbWU6ICdiYXNrZXQnLFxyXG4gICAgaW5pdGlhbFN0YXRlLFxyXG4gICAgcmVkdWNlcnM6IHtcclxuICAgICAgICBhZGRUb0Jhc2tldDogKHN0YXRlLCBhY3Rpb24pID0+IHtcclxuICAgICAgICAgICAgc3RhdGUuaXRlbXM9Wy4uLnN0YXRlLml0ZW1zLCBhY3Rpb24ucGF5bG9hZF07XHJcbiAgICAgICAgfSxcclxuICAgICAgICByZW1vdmVGcm9tQmFza2V0OiAoc3RhdGUsIGFjdGlvbikgPT4ge30sXHJcbiAgICB9LFxyXG59KTtcclxuZXhwb3J0IGNvbnN0IHthZGRUb0Jhc2tldCwgcmVtb3ZlRnJvbUJhc2tldH0gPSBiYXNrZXRTbGljZS5hY3Rpb25zO1xyXG5leHBvcnQgY29uc3Qgc2VsZWN0SXRlbXMgPSBzdGF0ZSA9PiBzdGF0ZS5iYXNrZXQuaXRlbXM7XHJcblxyXG5cclxuXHJcbmV4cG9ydCBkZWZhdWx0IGJhc2tldFNsaWNlLnJlZHVjZXI7Il0sIm5hbWVzIjpbImNyZWF0ZVNsaWNlIiwiaW5pdGlhbFN0YXRlIiwiaXRlbXMiLCJiYXNrZXRTbGljZSIsIm5hbWUiLCJyZWR1Y2VycyIsImFkZFRvQmFza2V0Iiwic3RhdGUiLCJhY3Rpb24iLCJwYXlsb2FkIiwicmVtb3ZlRnJvbUJhc2tldCIsImFjdGlvbnMiLCJzZWxlY3RJdGVtcyIsImJhc2tldCIsInJlZHVjZXIiXSwiaWdub3JlTGlzdCI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./slices/basketSlice.js\n");
+
+/***/ }),
+
+/***/ "./src/store.js":
+/*!**********************!*\
+  !*** ./src/store.js ***!
+  \**********************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   store: () => (/* binding */ store)\n/* harmony export */ });\n/* harmony import */ var _reduxjs_toolkit__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @reduxjs/toolkit */ \"@reduxjs/toolkit\");\n/* harmony import */ var _slices_basketSlice__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../slices/basketSlice */ \"./slices/basketSlice.js\");\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_reduxjs_toolkit__WEBPACK_IMPORTED_MODULE_0__, _slices_basketSlice__WEBPACK_IMPORTED_MODULE_1__]);\n([_reduxjs_toolkit__WEBPACK_IMPORTED_MODULE_0__, _slices_basketSlice__WEBPACK_IMPORTED_MODULE_1__] = __webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__);\n\n\n//global store\nconst store = (0,_reduxjs_toolkit__WEBPACK_IMPORTED_MODULE_0__.configureStore)({\n    reducer: {\n        basket: _slices_basketSlice__WEBPACK_IMPORTED_MODULE_1__[\"default\"]\n    }\n});\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvc3RvcmUuanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7O0FBQWdEO0FBQ0U7QUFFbEQsY0FBYztBQUNQLE1BQU1FLFFBQVFGLGdFQUFjQSxDQUFDO0lBQ2hDRyxTQUFTO1FBQ0xDLFFBQVFILDJEQUFhQTtJQUN6QjtBQUNBLEdBQUciLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xccGFsYWtcXE9uZURyaXZlXFxEZXNrdG9wXFxhbW96b25jbG9uZVxcYW1vem9uXFxzcmNcXHN0b3JlLmpzIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7Y29uZmlndXJlU3RvcmV9IGZyb20gJ0ByZWR1eGpzL3Rvb2xraXQnO1xyXG5pbXBvcnQgYmFza2V0UmVkdWNlciBmcm9tICcuLi9zbGljZXMvYmFza2V0U2xpY2UnO1xyXG5cclxuLy9nbG9iYWwgc3RvcmVcclxuZXhwb3J0IGNvbnN0IHN0b3JlID0gY29uZmlndXJlU3RvcmUoe1xyXG4gICAgcmVkdWNlcjoge1xyXG4gICAgICAgIGJhc2tldDogYmFza2V0UmVkdWNlcixcclxuICAgIH0sXHJcbiAgICB9KTsiXSwibmFtZXMiOlsiY29uZmlndXJlU3RvcmUiLCJiYXNrZXRSZWR1Y2VyIiwic3RvcmUiLCJyZWR1Y2VyIiwiYmFza2V0Il0sImlnbm9yZUxpc3QiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/store.js\n");
+
+/***/ }),
+
+/***/ "./styles/globals.css":
+/*!****************************!*\
+  !*** ./styles/globals.css ***!
+  \****************************/
+/***/ (() => {
+
+
+
+/***/ }),
+
+/***/ "@mui/system":
+/*!******************************!*\
+  !*** external "@mui/system" ***!
+  \******************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/system");
+
+/***/ }),
+
+/***/ "@mui/system/DefaultPropsProvider":
+/*!***************************************************!*\
+  !*** external "@mui/system/DefaultPropsProvider" ***!
+  \***************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/system/DefaultPropsProvider");
+
+/***/ }),
+
+/***/ "@mui/system/colorManipulator":
+/*!***********************************************!*\
+  !*** external "@mui/system/colorManipulator" ***!
+  \***********************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/system/colorManipulator");
+
+/***/ }),
+
+/***/ "@mui/system/createStyled":
+/*!*******************************************!*\
+  !*** external "@mui/system/createStyled" ***!
+  \*******************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/system/createStyled");
+
+/***/ }),
+
+/***/ "@mui/system/createTheme":
+/*!******************************************!*\
+  !*** external "@mui/system/createTheme" ***!
+  \******************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/system/createTheme");
+
+/***/ }),
+
+/***/ "@mui/system/cssVars":
+/*!**************************************!*\
+  !*** external "@mui/system/cssVars" ***!
+  \**************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/system/cssVars");
+
+/***/ }),
+
+/***/ "@mui/system/spacing":
+/*!**************************************!*\
+  !*** external "@mui/system/spacing" ***!
+  \**************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/system/spacing");
+
+/***/ }),
+
+/***/ "@mui/system/styleFunctionSx":
+/*!**********************************************!*\
+  !*** external "@mui/system/styleFunctionSx" ***!
+  \**********************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/system/styleFunctionSx");
+
+/***/ }),
+
+/***/ "@mui/utils":
+/*!*****************************!*\
+  !*** external "@mui/utils" ***!
+  \*****************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils");
+
+/***/ }),
+
+/***/ "@mui/utils/capitalize":
+/*!****************************************!*\
+  !*** external "@mui/utils/capitalize" ***!
+  \****************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/capitalize");
+
+/***/ }),
+
+/***/ "@mui/utils/composeClasses":
+/*!********************************************!*\
+  !*** external "@mui/utils/composeClasses" ***!
+  \********************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/composeClasses");
+
+/***/ }),
+
+/***/ "@mui/utils/createChainedFunction":
+/*!***************************************************!*\
+  !*** external "@mui/utils/createChainedFunction" ***!
+  \***************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/createChainedFunction");
+
+/***/ }),
+
+/***/ "@mui/utils/debounce":
+/*!**************************************!*\
+  !*** external "@mui/utils/debounce" ***!
+  \**************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/debounce");
+
+/***/ }),
+
+/***/ "@mui/utils/deepmerge":
+/*!***************************************!*\
+  !*** external "@mui/utils/deepmerge" ***!
+  \***************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/deepmerge");
+
+/***/ }),
+
+/***/ "@mui/utils/deprecatedPropType":
+/*!************************************************!*\
+  !*** external "@mui/utils/deprecatedPropType" ***!
+  \************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/deprecatedPropType");
+
+/***/ }),
+
+/***/ "@mui/utils/formatMuiErrorMessage":
+/*!***************************************************!*\
+  !*** external "@mui/utils/formatMuiErrorMessage" ***!
+  \***************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/formatMuiErrorMessage");
+
+/***/ }),
+
+/***/ "@mui/utils/generateUtilityClass":
+/*!**************************************************!*\
+  !*** external "@mui/utils/generateUtilityClass" ***!
+  \**************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/generateUtilityClass");
+
+/***/ }),
+
+/***/ "@mui/utils/generateUtilityClasses":
+/*!****************************************************!*\
+  !*** external "@mui/utils/generateUtilityClasses" ***!
+  \****************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/generateUtilityClasses");
+
+/***/ }),
+
+/***/ "@mui/utils/isMuiElement":
+/*!******************************************!*\
+  !*** external "@mui/utils/isMuiElement" ***!
+  \******************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/isMuiElement");
+
+/***/ }),
+
+/***/ "@mui/utils/ownerDocument":
+/*!*******************************************!*\
+  !*** external "@mui/utils/ownerDocument" ***!
+  \*******************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/ownerDocument");
+
+/***/ }),
+
+/***/ "@mui/utils/ownerWindow":
+/*!*****************************************!*\
+  !*** external "@mui/utils/ownerWindow" ***!
+  \*****************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/ownerWindow");
+
+/***/ }),
+
+/***/ "@mui/utils/requirePropFactory":
+/*!************************************************!*\
+  !*** external "@mui/utils/requirePropFactory" ***!
+  \************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/requirePropFactory");
+
+/***/ }),
+
+/***/ "@mui/utils/setRef":
+/*!************************************!*\
+  !*** external "@mui/utils/setRef" ***!
+  \************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/setRef");
+
+/***/ }),
+
+/***/ "@mui/utils/unsupportedProp":
+/*!*********************************************!*\
+  !*** external "@mui/utils/unsupportedProp" ***!
+  \*********************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/unsupportedProp");
+
+/***/ }),
+
+/***/ "@mui/utils/useControlled":
+/*!*******************************************!*\
+  !*** external "@mui/utils/useControlled" ***!
+  \*******************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/useControlled");
+
+/***/ }),
+
+/***/ "@mui/utils/useEnhancedEffect":
+/*!***********************************************!*\
+  !*** external "@mui/utils/useEnhancedEffect" ***!
+  \***********************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/useEnhancedEffect");
+
+/***/ }),
+
+/***/ "@mui/utils/useEventCallback":
+/*!**********************************************!*\
+  !*** external "@mui/utils/useEventCallback" ***!
+  \**********************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/useEventCallback");
+
+/***/ }),
+
+/***/ "@mui/utils/useForkRef":
+/*!****************************************!*\
+  !*** external "@mui/utils/useForkRef" ***!
+  \****************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/useForkRef");
+
+/***/ }),
+
+/***/ "@mui/utils/useId":
+/*!***********************************!*\
+  !*** external "@mui/utils/useId" ***!
+  \***********************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("@mui/utils/useId");
+
+/***/ }),
+
+/***/ "clsx":
+/*!***********************!*\
+  !*** external "clsx" ***!
+  \***********************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("clsx");
+
+/***/ }),
+
+/***/ "next-auth/react":
+/*!**********************************!*\
+  !*** external "next-auth/react" ***!
+  \**********************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("next-auth/react");
+
+/***/ }),
+
+/***/ "next/dist/compiled/next-server/pages.runtime.dev.js":
+/*!**********************************************************************!*\
+  !*** external "next/dist/compiled/next-server/pages.runtime.dev.js" ***!
+  \**********************************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("next/dist/compiled/next-server/pages.runtime.dev.js");
+
+/***/ }),
+
+/***/ "../../server/app-render/action-async-storage.external":
+/*!*******************************************************************************!*\
+  !*** external "next/dist/server/app-render/action-async-storage.external.js" ***!
+  \*******************************************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("next/dist/server/app-render/action-async-storage.external.js");
+
+/***/ }),
+
+/***/ "../app-render/work-async-storage.external":
+/*!*****************************************************************************!*\
+  !*** external "next/dist/server/app-render/work-async-storage.external.js" ***!
+  \*****************************************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("next/dist/server/app-render/work-async-storage.external.js");
+
+/***/ }),
+
+/***/ "./work-unit-async-storage.external":
+/*!**********************************************************************************!*\
+  !*** external "next/dist/server/app-render/work-unit-async-storage.external.js" ***!
+  \**********************************************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("next/dist/server/app-render/work-unit-async-storage.external.js");
+
+/***/ }),
+
+/***/ "prop-types":
+/*!*****************************!*\
+  !*** external "prop-types" ***!
+  \*****************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("prop-types");
+
+/***/ }),
+
+/***/ "react":
+/*!************************!*\
+  !*** external "react" ***!
+  \************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("react");
+
+/***/ }),
+
+/***/ "react-dom":
+/*!****************************!*\
+  !*** external "react-dom" ***!
+  \****************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("react-dom");
+
+/***/ }),
+
+/***/ "react/jsx-dev-runtime":
+/*!****************************************!*\
+  !*** external "react/jsx-dev-runtime" ***!
+  \****************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("react/jsx-dev-runtime");
+
+/***/ }),
+
+/***/ "react/jsx-runtime":
+/*!************************************!*\
+  !*** external "react/jsx-runtime" ***!
+  \************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("react/jsx-runtime");
+
+/***/ }),
+
+/***/ "@reduxjs/toolkit":
+/*!***********************************!*\
+  !*** external "@reduxjs/toolkit" ***!
+  \***********************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = import("@reduxjs/toolkit");;
+
+/***/ }),
+
+/***/ "react-redux":
+/*!******************************!*\
+  !*** external "react-redux" ***!
+  \******************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = import("react-redux");;
+
+/***/ })
+
+};
+;
+
+// load runtime
+var __webpack_require__ = require("../webpack-runtime.js");
+__webpack_require__.C(exports);
+var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
+var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/next","vendor-chunks/@swc","vendor-chunks/@mui","vendor-chunks/@heroicons","vendor-chunks/@babel"], () => (__webpack_exec__("./pages/_app.js")));
+module.exports = __webpack_exports__;
+
+})();
